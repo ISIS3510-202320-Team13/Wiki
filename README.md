@@ -59,7 +59,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 * Johan Sebastian Caceres (Gastronomic offer) : https://drive.google.com/file/d/1ASBGroEq2njyBaAFmh-Kocu_mwah90VN/view?usp=sharing
 * Nicolas Falla (Gastronomic offer) :
 
-https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/55ce8ea0-d5fd-4ab0-90b8-fea0308b04ce
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d5-a890-854929b6a0e4
 
 
 * Sergio Esteban Peñuela :
