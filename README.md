@@ -75,6 +75,8 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/55ce8ea0-d5fd-4ab
 | --------- | ----- | ---- | ---- | ---- |
 | 1 | Students don't have a way to find out about new restaurants | They have a fear of missing out on new restaurants | The only way to get recomendations are by having friends tell that there is a new restaurant that you should try out. Marketing campaigns for new restaurants aren't that good. | Uniandes Students |
 | 2 | Students tend to always eat at the same restaurants | They are fairly satisfied with the restaurants they frequent but they are constantly searching for new options | It's very hard to find new restaurants that are good | Uniandes students |
+| 3 | Students rarely try out new restaurants without having some type of incentive to do so | Students are often unsatisfied when they try out new restaurants that haven't been previously recommended by someone the know | Trying out a new restaurant is often a 50/50 chance where you either make a new finding or feel like you just lost money | Uniandes students |
+| 4 | Local owners have dwindling costumers | Restaurant owners that start out are frustrated at the low income that their buisness has | There is no real way to market a new restaurant other than giving out flyers to potential costumers and hoping that they come by | Restaurant owners |
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
 * Juan Diego Lugo Sánchez :
