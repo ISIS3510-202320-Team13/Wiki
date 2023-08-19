@@ -55,7 +55,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 ### Summary Audio:
 
 #### Indivudual audios
-* Johan Sebastian Caceres (Gastronomic offer) :
+* Johan Sebastian Caceres (Gastronomic offer) : https://drive.google.com/file/d/1ASBGroEq2njyBaAFmh-Kocu_mwah90VN/view?usp=sharing
 * Nicolas Falla :
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
