@@ -74,6 +74,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/55ce8ea0-d5fd-4ab
 | Situation | What? | How? | Why? | Who? |
 | --------- | ----- | ---- | ---- | ---- |
 | 1 | Students don't have a way to find out about new restaurants | They have a fear of missing out on new restaurants | The only way to get recomendations are by having friends tell that there is a new restaurant that you should try out. Marketing campaigns for new restaurants aren't that good. | Uniandes Students |
+| 2 | Students tend to always eat at the same restaurants | They are fairly satisfied with the restaurants they frequent but they are constantly searching for new options | It's very hard to find new restaurants that are good | Uniandes students |
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
 * Juan Diego Lugo Sánchez :
