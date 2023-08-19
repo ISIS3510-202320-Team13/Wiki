@@ -70,6 +70,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/55ce8ea0-d5fd-4ab
 ### 4. Identify 4 complete situations for each interview( "What","How", "Why")
 * Johan Sebastian Caceres (Gastronomic offer) :
 * Nicolas Falla :
+  
 | Situation | What? | How? | Why? | Who? |
 | --------- | ----- | ---- | ---- | ---- |
 | 1 | Students don't have a way to find out about new restaurants | They have a fear of missing out on new restaurants | The only way to get recomendations are by having friends tell that there is a new restaurant that you should try out. Marketing campaigns for new restaurants aren't that good. | Uniandes Students |
