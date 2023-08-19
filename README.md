@@ -44,7 +44,8 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 ### 2. Interviews structures
 * Johan Sebastian Caceres (Gastronomic offer) :[Gatronomic Offer Interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12385124/Gatronomic.Offer.Interview.pdf)
 
-* Nicolas Falla :
+* Nicolas Falla (Gastronomic offer) :[Interview n.falla.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386322/Interview.n.falla.pdf)
+
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
 * Juan Diego Lugo Sánchez :
@@ -54,9 +55,13 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 
 ### Summary Audio:
 
-#### Indivudual audios
+#### Individual audios
 * Johan Sebastian Caceres (Gastronomic offer) : https://drive.google.com/file/d/1ASBGroEq2njyBaAFmh-Kocu_mwah90VN/view?usp=sharing
-* Nicolas Falla :
+* Nicolas Falla (Gastronomic offer) :
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/55ce8ea0-d5fd-4ab0-90b8-fea0308b04ce
+
+
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
 * Juan Diego Lugo Sánchez :
