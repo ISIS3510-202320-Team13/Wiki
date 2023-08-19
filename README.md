@@ -27,10 +27,10 @@ Team 13
 
    
 
-### MS2
+## MS2
 [Back to top](#Wiki)
 
-### list the 4 problems.
+### List the 4 problems.
    #### 1. Parking App:
    It's well known that Los Andes University's parking lots are limited, all potential users (specially students), have to make long lines and wait tens of minutes for being able to park inside the only parking lot that this institution has. One of the biggest problems is not knowing when a parking lot is free, if are they full or what's the approximate time in line for getting a place to park. 
    #### 2. gastronomic offer:
@@ -39,6 +39,7 @@ Team 13
    The problem of falsification and scams related to the sale of event tickets is on the rise due to factors like online platforms, anonymity, high-demand events, sophisticated scam techniques, lack of regulation, and limited awareness. 
    #### 4.Interactive Blocker App:
 The issue of struggling to concentrate on activities due to excessive use of social media and mobile games is a common challenge in today's digital age. This phenomenon is often referred to as "digital distraction" or "digital addiction." It can have negative impacts on productivity, mental well-being, and overall quality of life. 
+
 
 
 ### MS3
