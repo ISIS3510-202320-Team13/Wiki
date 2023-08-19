@@ -51,7 +51,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 
 ### 3. Audios:
 
-Summary Audio:
+### Summary Audio:
 
 #### Indivudual audios
 * Johan Sebastian Caceres (Gastronomic offer) :
@@ -61,7 +61,7 @@ Summary Audio:
 * Juan Diego Lugo Sánchez :
 * Juan Camilo Reyes :
 
-### 4. Identify 4 cimplete situations for each interview( "What","How", "Why")
+### 4. Identify 4 complete situations for each interview( "What","How", "Why")
 * Johan Sebastian Caceres (Gastronomic offer) :
 * Nicolas Falla :
 * Sergio Esteban Peñuela :
