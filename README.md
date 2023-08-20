@@ -49,7 +49,8 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
 * Juan Diego Lugo Sánchez :
-* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc]()
+* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
+
 
 ### 3. Audios:
 
@@ -65,7 +66,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
 * Juan Diego Lugo Sánchez :
-* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://uniandes-my.sharepoint.com/:v:/g/personal/j_reyesc_uniandes_edu_co/EZZg6ce7sVZNm4XGHFvgUkoBk0Eovqd00-OhZLqu8xoj4A?e=MHLKgP)
+* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc]()
 
 ### 4. Identify 4 complete situations for each interview( "What","How", "Why")
 * Johan Sebastian Caceres (Gastronomic offer) :
