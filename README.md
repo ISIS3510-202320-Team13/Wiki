@@ -47,7 +47,8 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 * Nicolas Falla (Gastronomic offer) :[Interview n.falla.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386322/Interview.n.falla.pdf)
 
 * Sergio Esteban Peñuela :
-* Cristóbal Arroyo :
+* Cristóbal Arroyo : [Interview j.arroyo.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386916/InterviewFormat.pdf)
+
 * Juan Diego Lugo Sánchez :
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
 
@@ -64,7 +65,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 
 
 * Sergio Esteban Peñuela :
-* Cristóbal Arroyo :
+* Cristóbal Arroyo : [Link OneDrive](https://uniandes-my.sharepoint.com/:u:/g/personal/j_arroyo_uniandes_edu_co/EXK60GLtOKpPibyIoWznOgwBiefkM1RxeIsslamBrYn9Fw?e=GSO4eU)
 * Juan Diego Lugo Sánchez :
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc]()
 
@@ -80,6 +81,14 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 | 4 | Local owners have dwindling costumers | Restaurant owners that start out are frustrated at the low income that their buisness has | There is no real way to market a new restaurant other than giving out flyers to potential costumers and hoping that they come by | Restaurant owners |
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo :
+
+| Situation | What? | How? | Why? | Who? |
+| --------- | ----- | ---- | ---- | ---- |
+| 1 | The person is trying to concentrate in his work, but is distracted by apps in his phone | The apps show them notifications of new messages or content or it's just distracted by reflex action | Because these apps would give more gratification to the brain than working or studying | A particual individual |
+| 2 | When trying to sleep, the person would check his phone and delay the sleep hour for a lot of time | The person engages with their phone, possibly browsing social media watching videos or posts, and getting catched by the next one | The phone's screen emits blue light that suppresses melatonin production, making it harder to fall asleep; curiosity and habit of not sleeping withouth checking the phone also contribute | A particular individual |
+| 3 | When checking apps, the person often wastes a lot of than half an hour on irrelevant content | Scrolling through posts or videos that trigger immediate reactions and curiosity | The platform is designed to be addictive, encouraging endless scrolling and providing intermittent rewards, keeping users engaged | A particular individual |
+| 4 | The person avoids focusing on daily tasks | Engaging in activities that provide immediate pleasure or distraction, like browsing social media or watching videos | Tasks might feel challenging and not gratifying, and distractions offer a quick escape from discomfort or boredom | A particular individual |
+
 * Juan Diego Lugo Sánchez :
 * Juan Camilo Reyes :
 
