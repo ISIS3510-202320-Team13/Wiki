@@ -137,7 +137,7 @@ Juan Camilo Reyes :
 
 
 ### 7. Build a prototype and describe it based on the brainstorming
-[![Watch the video](https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/e296afc8-484d-4686-85a7-a831600e875f)
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/e296afc8-484d-4686-85a7-a831600e875f
 
 ### MS3
 [Back to top](#Wiki)
