@@ -119,7 +119,7 @@ Juan Diego Lugo Sánchez :
 | 3         | Lack of secure payment and ticket transfer methods   | Implement an online transfer system with transaction monitoring | Ensure safe and reversible transactions for both buyers and sellers               | Ticket resale platform developers, Juan Diego (Interviewee) |
 | 4         | Increased cost due to transaction security measures  | Establish a middleman service for secure transactions           | Ensure trustworthy transactions, even at an increased cost                        | Ticket resale platform, potential middlemen                 |
 
-<details>
+</details>
 <summary>
 Juan Camilo Reyes :
 </summary>
