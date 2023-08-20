@@ -112,6 +112,12 @@ Cristóbal Arroyo :
 <summary>
 Juan Diego Lugo Sánchez :
 </summary>
+| Situation | What? | How? | Why? | Who? |
+| --------- | ----- | ---- | ---- | ---- |
+| 1 | Market demand for a secure ticket resale application | Develop a ticket resale application with security features | Prevent fraud and provide a secure way for buyers and sellers to exchange tickets | Clients of events |
+| 2 | Difficulty in identifying ticket resale scams | Create clear guidelines and education about scam signs | Empower buyers to make informed decisions and avoid scams	| Clients of events) |
+| 3 | Lack of secure payment and ticket transfer methods | Implement an online transfer system with transaction monitoring | Ensure safe and reversible transactions for both buyers and sellers | Ticket resale platform developers, Clients of events |
+| 4 | Increased cost due to transaction security measures | Establish a middleman service for secure transactions | Ensure trustworthy transactions, even at an increased cost | Ticket resale platform, potential middlemen |
 </details>
 
 <details>
