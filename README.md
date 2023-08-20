@@ -62,11 +62,13 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo : [Link OneDrive](https://uniandes-my.sharepoint.com/:u:/g/personal/j_arroyo_uniandes_edu_co/EXK60GLtOKpPibyIoWznOgwBiefkM1RxeIsslamBrYn9Fw?e=GSO4eU)
 * Juan Diego Lugo Sánchez : https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/66ddf426-5244-4f6f-99b6-cecd73a6a4b7
+  Transcription: [Interviewer_transcript .pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387155/Interviewer_transcript.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://uniandes-my.sharepoint.com/:v:/g/personal/j_reyesc_uniandes_edu_co/ESFKjyKcpf9BtlOtoPM3NoIB-qzd_-fe-hz8asmvuuCa5A?e=tYVaQb)
 
 ### 4. Identify 4 complete situations for each interview( "What","How", "Why")
 
 <details>
+
 <summary>
 Johan Sebastian Caceres (Gastronomic offer) :
 </summary>
