@@ -53,7 +53,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 
 ### 3. Audios:
 
-### Summary Audio:
+### Summary Audio: https://drive.google.com/file/d/1WOZkuH6EWJwWd-ZqQQLOr91uOgPo5SyB/view?usp=sharing
 
 #### Individual audios
 * Johan Sebastian Caceres (Gastronomic offer) : https://drive.google.com/file/d/1ASBGroEq2njyBaAFmh-Kocu_mwah90VN/view?usp=sharing
