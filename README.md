@@ -70,6 +70,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 <summary>
 Johan Sebastian Caceres (Gastronomic offer) :
 </summary>
+
 | Situation | What? | How? | Why? | Who? |
 | --- | --- | --- | --- | --- |
 | 1 | The person wants to have lunch near the university but struggles to find varied options | The person walks around checking menus of different nearby eateries, but they all seem to offer similar choices | The lack of diversity limits the person's choices, and the options available don't satisfy their preferences | A particular individual |
