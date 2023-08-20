@@ -70,8 +70,18 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://uniandes-my.sharepoint.com/:v:/g/personal/j_reyesc_uniandes_edu_co/ESFKjyKcpf9BtlOtoPM3NoIB-qzd_-fe-hz8asmvuuCa5A?e=tYVaQb)
 
 ### 4. Identify 4 complete situations for each interview( "What","How", "Why")
-* Johan Sebastian Caceres (Gastronomic offer) :
-* Nicolas Falla :
+
+<details>
+<summary>
+Johan Sebastian Caceres (Gastronomic offer) :
+</summary>
+
+</details>
+  
+<details>
+<summary>
+Nicolas Falla :
+</summary>
   
 | Situation | What? | How? | Why? | Who? |
 | --------- | ----- | ---- | ---- | ---- |
@@ -79,8 +89,20 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 | 2 | Students tend to always eat at the same restaurants | They are fairly satisfied with the restaurants they frequent but they are constantly searching for new options | It's very hard to find new restaurants that are good | Uniandes students |
 | 3 | Students rarely try out new restaurants without having some type of incentive to do so | Students are often unsatisfied when they try out new restaurants that haven't been previously recommended by someone the know | Trying out a new restaurant is often a 50/50 chance where you either make a new finding or feel like you just lost money | Uniandes students |
 | 4 | Local owners have dwindling costumers | Restaurant owners that start out are frustrated at the low income that their buisness has | There is no real way to market a new restaurant other than giving out flyers to potential costumers and hoping that they come by | Restaurant owners |
-* Sergio Esteban Peñuela :
-* Cristóbal Arroyo :
+
+</details>
+
+<details>
+<summary>
+Sergio Esteban Peñuela :
+</summary>
+
+</details>
+
+<details>
+<summary>
+Cristóbal Arroyo :
+</summary>
 
 | Situation | What? | How? | Why? | Who? |
 | --------- | ----- | ---- | ---- | ---- |
@@ -89,8 +111,18 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 | 3 | When checking apps, the person often wastes a lot of than half an hour on irrelevant content | Scrolling through posts or videos that trigger immediate reactions and curiosity | The platform is designed to be addictive, encouraging endless scrolling and providing intermittent rewards, keeping users engaged | A particular individual |
 | 4 | The person avoids focusing on daily tasks | Engaging in activities that provide immediate pleasure or distraction, like browsing social media or watching videos | Tasks might feel challenging and not gratifying, and distractions offer a quick escape from discomfort or boredom | A particular individual |
 
-* Juan Diego Lugo Sánchez :
-* Juan Camilo Reyes :
+</details>
+
+<details>
+<summary>
+Juan Diego Lugo Sánchez :
+</summary>
+</details>
+
+<details>
+<summary>
+Juan Camilo Reyes :
+</summary>
 
 | Situation | What? | How? | Why? | Who? |
 | --------- | ----- | ---- | ---- | ---- |
@@ -99,6 +131,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 | 3 | There is no way to ensure the payment and reception of the ticket with this type of transaction | When you send the ticket or make the payment, there is no way to revert the transaction if one of the parties breaches the agreement | This way, buyers and sellers can ensure the safety of the money and the tickets, and the fulfillment of the transaction | Resale ticket sellers and buyers |
 | 4 | Ensuring the transaction is secure can be more expensive | When you set up a middleman to monitor the transaction, the cost will go up due to their involvement | There needs to be a payment to the entity that will mediate the purchase | Resale ticket transaction middlemen |
 
+</details>
 
 ### 5. 2 Journey Maps
 ### Tickets
