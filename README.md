@@ -101,12 +101,15 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 
 
 ### 5. 2 Journey Maps
-
+### Tickets
+ [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
 ### 6. Description of the brainstorming process and the possible solutions that came 
+![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/61635baa-cdcd-425f-bf52-cb9e61b75ef8)
+
 
 * Parking:
 * Gastronomic Offer:
-* Ticket: [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
+* Ticket:
 * Procrastination and waste of time:
 ### 7. Build a prototype and describe it based on the brainstorming
 
