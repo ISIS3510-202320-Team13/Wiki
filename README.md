@@ -44,12 +44,10 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 ### 2. Interviews structures
 
 * Johan Sebastian Caceres (Gastronomic offer) :[Gatronomic Offer Interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12385124/Gatronomic.Offer.Interview.pdf)
-
 * Nicolas Falla (Gastronomic offer) :[Interview n.falla.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386322/Interview.n.falla.pdf)
-
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo : [Interview j.arroyo.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386916/InterviewFormat.pdf)
-* Juan Diego Lugo Sánchez :[jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387104/jd.lugo_interview.pdf)
+* Juan Diego Lugo Sánchez : [jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387123/jd.lugo_interview.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
 
 
