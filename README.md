@@ -131,12 +131,13 @@ Juan Camilo Reyes :
 ### 5. 2 Journey Maps
 ### Tickets
  [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
+
 ### 6. Description of the brainstorming process and the possible solutions that came 
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/61635baa-cdcd-425f-bf52-cb9e61b75ef8)
 
 
 ### 7. Build a prototype and describe it based on the brainstorming
-
+[![Watch the video](https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/e296afc8-484d-4686-85a7-a831600e875f)
 
 ### MS3
 [Back to top](#Wiki)
