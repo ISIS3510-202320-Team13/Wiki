@@ -106,7 +106,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 
 * Parking:
 * Gastronomic Offer:
-* Ticket:
+* Ticket: [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
 * Procrastination and waste of time:
 ### 7. Build a prototype and describe it based on the brainstorming
 
