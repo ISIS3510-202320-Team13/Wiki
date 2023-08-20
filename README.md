@@ -70,6 +70,12 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 <summary>
 Johan Sebastian Caceres (Gastronomic offer) :
 </summary>
+| Situation | What? | How? | Why? | Who? |
+| --- | --- | --- | --- | --- |
+| 1 | The person wants to have lunch near the university but struggles to find varied options | The person walks around checking menus of different nearby eateries, but they all seem to offer similar choices | The lack of diversity limits the person's choices, and the options available don't satisfy their preferences | A particular individual |
+| 2 | Trying to decide where to eat for dinner, the person keeps hesitating | The person scrolls through various food delivery apps, but nothing seems appealing | The limited range of options makes it challenging to find a restaurant that matches the person's cravings | A particular individual |
+| 3 | The person often ends up ordering the same type of food for lunch multiple times a week | When browsing food options, the person tends to choose a familiar place without exploring new choices | Familiarity feels safer and reduces the effort of decision-making, even if it leads to monotony | A particular individual |
+| 4 | Despite wanting to explore new places, the person always ends up at a familiar cafe | The person considers trying a new cafe but feels uncertain about the menu and quality, so they opt for a place they know | The fear of a disappointing dining experience or the allure of a reliable option prevents the person from venturing into the unknown | A particular individual |
 
 </details>
   
