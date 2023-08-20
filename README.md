@@ -42,6 +42,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 
 
 ### 2. Interviews structures
+
 * Johan Sebastian Caceres (Gastronomic offer) :[Gatronomic Offer Interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12385124/Gatronomic.Offer.Interview.pdf)
 
 * Nicolas Falla (Gastronomic offer) :[Interview n.falla.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386322/Interview.n.falla.pdf)
@@ -140,10 +141,6 @@ Juan Camilo Reyes :
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/61635baa-cdcd-425f-bf52-cb9e61b75ef8)
 
 
-* Parking:
-* Gastronomic Offer:
-* Ticket:
-* Procrastination and waste of time:
 ### 7. Build a prototype and describe it based on the brainstorming
 
 
