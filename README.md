@@ -92,6 +92,14 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 * Juan Diego Lugo Sánchez :
 * Juan Camilo Reyes :
 
+| Situation | What? | How? | Why? | Who? |
+| --------- | ----- | ---- | ---- | ---- |
+| 1 | People who want to attend an event don't have a secure way of buying resale tickets when the official sale is over | They feel insecure when buying resale tickets | The possibility of getting scammed is very high | Resale ticket buyers |
+| 2 | No one has clear guidelines of what a scam looks like | Identifying a scam has become very difficult as scammers change methods and adapt | Increased awareness also leads to evolving scamming strategies | Resale ticket buyers |
+| 3 | There is no way to ensure the payment and reception of the ticket with this type of transaction | When you send the ticket or make the payment, there is no way to revert the transaction if one of the parties breaches the agreement | This way, buyers and sellers can ensure the safety of the money and the tickets, and the fulfillment of the transaction | Resale ticket sellers and buyers |
+| 4 | Ensuring the transaction is secure can be more expensive | When you set up a middleman to monitor the transaction, the cost will go up due to their involvement | There needs to be a payment to the entity that will mediate the purchase | Resale ticket transaction middlemen |
+
+
 ### 5. 2 Journey Maps
 
 ### 6. Description of the brainstorming process and the possible solutions that came 
