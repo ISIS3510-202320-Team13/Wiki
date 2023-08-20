@@ -49,8 +49,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo : [Interview j.arroyo.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386916/InterviewFormat.pdf)
-
-* Juan Diego Lugo Sánchez :
+* Juan Diego Lugo Sánchez :[jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387104/jd.lugo_interview.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
 
 
