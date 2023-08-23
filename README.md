@@ -4,10 +4,10 @@
 1. [Home](#Home)
     1. [Members](#Members)
     1. [Sprint 1](#Sprint-1)
-        1. [MS1](#MS1)
-        2. [MS2](#MS2)
-        3. [MS3](#MS3)
-        4. [MS4](#MS4)
+        1. [MS1](#ms1)
+        2. [MS2](#ms2)
+        3. [MS3](#ms3)
+        4. [MS4](#ms4)
 
 ## Home
 Team 13
@@ -47,7 +47,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 * Nicolas Falla (Gastronomic offer) :[Interview n.falla.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386322/Interview.n.falla.pdf)
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo : [Interview j.arroyo.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386916/InterviewFormat.pdf)
-* Juan Diego Lugo Sánchez : [jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387123/jd.lugo_interview.pdf)
+* Juan Diego Lugo Sánchez : [jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12421307/jd.lugo_interview.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
 
 
@@ -61,8 +61,10 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d5-a890-854929b6a0e4
 * Sergio Esteban Peñuela :
 * Cristóbal Arroyo : [Link OneDrive](https://uniandes-my.sharepoint.com/:u:/g/personal/j_arroyo_uniandes_edu_co/EXK60GLtOKpPibyIoWznOgwBiefkM1RxeIsslamBrYn9Fw?e=GSO4eU)
-* Juan Diego Lugo Sánchez : https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/66ddf426-5244-4f6f-99b6-cecd73a6a4b7
-  Transcription: [Interviewer_transcript .pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387155/Interviewer_transcript.pdf)
+
+* Juan Diego Lugo Sánchez : 
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/66fa88f8-d635-4338-838e-2bdb5df4eebb
+  Transcription: [Interviewer_transcript .pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12421303/Interviewer_transcript.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://uniandes-my.sharepoint.com/:v:/g/personal/j_reyesc_uniandes_edu_co/EZZg6ce7sVZNm4XGHFvgUkoBk0Eovqd00-OhZLqu8xoj4A?e=r2mlJq)
   
 ### 4. Identify 4 complete situations for each interview( "What","How", "Why")
@@ -155,9 +157,13 @@ After the discussion, we chose the parking app problem to create a prototype of 
 
 
 ### 7. Build a prototype and describe it based on the brainstorming
-https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/e296afc8-484d-4686-85a7-a831600e875f
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5f-a750-23c9ece6b3cb
 
 ### MS3
+
+
+
+
 [Back to top](#Wiki)
 
 ### MS4
