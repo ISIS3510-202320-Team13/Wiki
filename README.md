@@ -153,7 +153,7 @@ Juan Camilo Reyes :
 ### Tickets
 [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
 
-###Parking
+### Parking
 [JourneyMap.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425312/JourneyMap.pdf)
 
 
