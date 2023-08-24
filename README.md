@@ -45,7 +45,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 
 * Johan Sebastian Caceres (Gastronomic offer) :[Gatronomic Offer Interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12385124/Gatronomic.Offer.Interview.pdf)
 * Nicolas Falla (Gastronomic offer) :[Interview n.falla.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386322/Interview.n.falla.pdf)
-* Sergio Esteban Peñuela :
+* Sergio Esteban Peñuela :[Interview_sepenuela.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425115/Interview_sepenuela.pdf)
 * Cristóbal Arroyo : [Interview j.arroyo.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386916/InterviewFormat.pdf)
 * Juan Diego Lugo Sánchez : [jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12421307/jd.lugo_interview.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
@@ -60,6 +60,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 * Nicolas Falla (Gastronomic offer) :
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d5-a890-854929b6a0e4
 * Sergio Esteban Peñuela :
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/69486519/46244a87-a20d-41fe-b82c-4b9c14fd9cfc
 * Cristóbal Arroyo : [Link OneDrive](https://uniandes-my.sharepoint.com/:u:/g/personal/j_arroyo_uniandes_edu_co/EXK60GLtOKpPibyIoWznOgwBiefkM1RxeIsslamBrYn9Fw?e=GSO4eU)
 
 * Juan Diego Lugo Sánchez : 
@@ -144,6 +145,9 @@ Juan Camilo Reyes :
 | 4 | Ensuring the transaction is secure can be more expensive | When you set up a middleman to monitor the transaction, the cost will go up due to their involvement | There needs to be a payment to the entity that will mediate the purchase | Resale ticket transaction middlemen |
 
 </details>
+
+Sergio Peñuela:[WhatHowWhy_Sepenuela.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425120/WhatHowWhy_Sepenuela.pdf)
+
 
 ### 5. 2 Journey Maps
 ### Tickets
