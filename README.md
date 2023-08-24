@@ -101,8 +101,10 @@ Nicolas Falla :
 
 <details>
 <summary>
-Sergio Esteban Peñuela :
+Sergio Esteban Peñuela :[WhatHowWhy_Sepenuela.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425133/WhatHowWhy_Sepenuela.pdf)
+
 </summary>
+
 
 </details>
 
@@ -145,8 +147,6 @@ Juan Camilo Reyes :
 | 4 | Ensuring the transaction is secure can be more expensive | When you set up a middleman to monitor the transaction, the cost will go up due to their involvement | There needs to be a payment to the entity that will mediate the purchase | Resale ticket transaction middlemen |
 
 </details>
-
-Sergio Peñuela:[WhatHowWhy_Sepenuela.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425120/WhatHowWhy_Sepenuela.pdf)
 
 
 ### 5. 2 Journey Maps
