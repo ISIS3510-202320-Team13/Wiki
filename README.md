@@ -151,8 +151,8 @@ Juan Camilo Reyes :
 
 ### 5. 2 Journey Maps
 ### Tickets
- [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
- [JourneyMap.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425306/JourneyMap.pdf)
+ * [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
+ * [JourneyMap.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425306/JourneyMap.pdf)
 
 
 ### 6. Description of the brainstorming process and the possible solutions that came 
