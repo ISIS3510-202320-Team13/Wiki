@@ -154,6 +154,8 @@ The brainstorming was made in a meeting between the 6 members of the group, we m
 
 After the discussion, we chose the parking app problem to create a prototype of the solution.
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/61635baa-cdcd-425f-bf52-cb9e61b75ef8)
+![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/d56ac085-7977-4016-8724-0c7952d8f8a2)
+
 
 
 ### 7. Build a prototype and describe it based on the brainstorming
