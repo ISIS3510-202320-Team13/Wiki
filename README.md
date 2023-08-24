@@ -152,6 +152,8 @@ Juan Camilo Reyes :
 ### 5. 2 Journey Maps
 ### Tickets
  [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
+ [JourneyMap.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425306/JourneyMap.pdf)
+
 
 ### 6. Description of the brainstorming process and the possible solutions that came 
 The brainstorming was made in a meeting between the 6 members of the group, we made a miro view of the 4 problems that were chosen. After that, all the members put their ideas about the posible features that the solution of each problem could have. Finally, we start to discuss about all the ideas and gave feedback about them.
