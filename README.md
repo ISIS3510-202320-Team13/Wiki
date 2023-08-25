@@ -28,6 +28,9 @@ Team 13
    
 
 ### MS2
+**Table of Contents MS2**
+1. [Home](#1.-List-the-4-problems)
+2. [Home](#2.-Interviews-structures)
 [Back to top](#Wiki)
 
 ### 1. List the 4 problems.
@@ -39,7 +42,7 @@ Team 13
    The problem of falsification and scams related to the sale of event tickets is on the rise due to factors like online platforms, anonymity, high-demand events, sophisticated scam techniques, lack of regulation, and limited awareness. 
    ### * Procrastination and waste of time :
 The issue of struggling to concentrate on activities due to excessive use of social media and mobile games is a common challenge in today's digital age. This phenomenon is often referred to as "digital distraction" or "digital addiction." It can have negative impacts on productivity, mental well-being, and overall quality of life. 
-
+[Back to MS2](#ms2)
 
 ### 2. Interviews structures
 
@@ -49,7 +52,7 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 * Cristóbal Arroyo : [Interview j.arroyo.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386916/InterviewFormat.pdf)
 * Juan Diego Lugo Sánchez : [jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12421307/jd.lugo_interview.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
-
+[Back to MS2](#ms2)
 
 ### 3. Audios:
 
@@ -62,12 +65,12 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 * Sergio Esteban Peñuela :
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/69486519/46244a87-a20d-41fe-b82c-4b9c14fd9cfc
 * Cristóbal Arroyo : [Link OneDrive](https://uniandes-my.sharepoint.com/:u:/g/personal/j_arroyo_uniandes_edu_co/EXK60GLtOKpPibyIoWznOgwBiefkM1RxeIsslamBrYn9Fw?e=GSO4eU)
-
-* Juan Diego Lugo Sánchez : 
-https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/66fa88f8-d635-4338-838e-2bdb5df4eebb
+* Juan Diego Lugo Sánchez : https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/66fa88f8-d635-4338-838e-2bdb5df4eebb
   Transcription: [Interviewer_transcript .pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12421303/Interviewer_transcript.pdf)
 * Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://uniandes-my.sharepoint.com/:v:/g/personal/j_reyesc_uniandes_edu_co/EZZg6ce7sVZNm4XGHFvgUkoBk0Eovqd00-OhZLqu8xoj4A?e=r2mlJq)
-  
+
+[Back to MS2](#ms2)
+
 ### 4. Identify 4 complete situations for each interview( "What","How", "Why")
 
 <details>
@@ -149,6 +152,7 @@ Juan Camilo Reyes :
 
 </details>
 
+[Back to MS2](#ms2)
 
 ### 5. 2 Journey Maps
 ### Tickets
@@ -156,7 +160,7 @@ Juan Camilo Reyes :
 ### Parking
 [JourneyMap.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425312/JourneyMap.pdf)
 
-
+[Back to MS2](#ms2)
 
 
 ### 6. Description of the brainstorming process and the possible solutions that came 
@@ -166,11 +170,12 @@ After the discussion, we chose the parking app problem to create a prototype of 
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/61635baa-cdcd-425f-bf52-cb9e61b75ef8)
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/d56ac085-7977-4016-8724-0c7952d8f8a2)
 
-
+[Back to MS2](#ms2)
 
 ### 7. Build a prototype and describe it based on the brainstorming
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5f-a750-23c9ece6b3cb
 
+[Back to MS2](#ms2)
 ### MS3
 
 ### 1. Brainstorming process
