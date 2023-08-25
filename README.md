@@ -209,6 +209,9 @@ Owners of private parking spaces :
 Parking lots employees :
 ![Employee Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/39b0a5a6-1cf5-4813-a93c-004d415e2687)
 
+Person who doesn't use the app :
+![Empathy Map Sepenuela](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/EmpathyMap_PersonWhoDoesNotUseApp.jpg.png)
+
 
 
 
