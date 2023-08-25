@@ -176,12 +176,10 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5
 ### 1. Brainstorming process
 ### 2. Decision process
 ### 3. Empathy maps
-    <details>
-
+<details>
 <summary>
 Owners of parking lots :
 </summary>
-
 
 </details>
   
@@ -190,33 +188,26 @@ Owners of parking lots :
 Occasional User :
 </summary>
   
-
-
 </details>
 
 <details>
 <summary>
 Concurrent user :
-
 </summary>
-
-
+    
 </details>
 
 <details>
 <summary>
 Owners of private parking spaces :
 </summary>
-
-
-
+![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/empathy_map_jd.lugo.png)
 </details>
 
 <details>
 <summary>
 Parking lots employees :
 </summary>
-
 
 </details>
 
