@@ -204,7 +204,7 @@ Occasional User :
 Concurrent user :
 
 Owners of private parking spaces :
-![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
+![Emppathy map InvidualOwner](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
 
 Parking lots employees :
 ![Employee Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/39b0a5a6-1cf5-4813-a93c-004d415e2687)
@@ -216,6 +216,7 @@ Person who doesn't use the app :
 [Back to MS3](#ms3)
 ### 4. Personas 
 ![Brainstorming User Persona Minimalista Azul](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/98f766c9-fa68-4f3c-9886-96df04e72483)
+![User Concurrente](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/persona_concurrent_user)
 
 [Back to MS3](#ms3)
 ### 5. Description of the solution
