@@ -200,6 +200,7 @@ Owners of parking lots :
 
 
 Occasional User :
+![Black and White Simple Empathy Map Brainstorm (1)](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/20580eb3-843a-4241-8cdc-a5d6925c136c)
 
 Concurrent user :
 
