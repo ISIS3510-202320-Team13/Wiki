@@ -29,8 +29,9 @@ Team 13
 
 ### MS2
 **Table of Contents MS2**
-1. [Home](#1.-List-the-4-problems)
-2. [Home](#2.-Interviews-structures)
+1. [Home](#1.-list-the-4-problems)
+2. [Home](#2.-interviews-structures)
+
 [Back to top](#Wiki)
 
 ### 1. List the 4 problems.
