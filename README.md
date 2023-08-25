@@ -196,7 +196,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5
 [Back to MS3](#ms3)
 ### 3. Empathy maps
 Possible Users
-Owners of parking lots :[Owner Empathy Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12441701/Owner.Empathy.Map.pdf)
+Owners of parking lots :
 
 
 Occasional User :
@@ -206,7 +206,9 @@ Concurrent user :
 Owners of private parking spaces :
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3-EmpathyMaps/empathy_map_jd.lugo.png)
 
-Parking lots employees :![Owners Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/9bf6f9e9-b567-49fb-bb50-3b9499277e54)
+Parking lots employees :
+![Owners Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/c12cf9d7-18e8-487d-9bb0-6eacae83b23b)
+
 
 
 [Back to MS3](#ms3)
