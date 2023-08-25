@@ -203,8 +203,10 @@ Occasional User :
 
 Concurrent user :
 
+![Empathy map Concurrent user](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
+
 Owners of private parking spaces :
-![Emppathy map InvidualOwner](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
+![Empathy map InvidualOwner](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
 
 Parking lots employees :
 ![Employee Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/39b0a5a6-1cf5-4813-a93c-004d415e2687)
