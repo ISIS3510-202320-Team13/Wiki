@@ -195,7 +195,6 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5
 ### 2. Decision process
 [Back to MS3](#ms3)
 ### 3. Empathy maps
-[Back to MS3](#ms3)
 Possible Users
 Owners of parking lots :
 
