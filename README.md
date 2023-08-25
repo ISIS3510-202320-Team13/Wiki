@@ -29,10 +29,14 @@ Team 13
 
 ### MS2
 **Table of Contents MS2**
-1. [Home](#1.-list-the-4-problems)
-2. [Home](#2.-interviews-structures)
-
-[Back to top](#Wiki)
+1. [List the 4 problems](#1-list-the-4-problems)
+2. [Interviews structures](#2-interviews-structures)
+3. [Audios](#3-Audios)
+4. [Situations](#4-identify-4-complete-situations-for-each-interview-whathow-why)
+5. [Journey Maps](#5-2-journey-maps)
+6. [Description of the brainstorming](#6-description-of-the-brainstorming-process-and-the-possible-solutions-that-came)
+7. [Prototype](#7-build-a-prototype-and-describe-it-based-on-the-brainstorming)
+8. [Back to top](#Wiki)
 
 ### 1. List the 4 problems.
    ### * Parking:
