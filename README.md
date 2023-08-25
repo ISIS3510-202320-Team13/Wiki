@@ -203,7 +203,7 @@ Occasional User :
 
 Concurrent user :
 
-![Empathy map Concurrent user](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/persona_concurrent_user.png)
+![Empathy map Concurrent user](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathyMapRecurringUser.png)
 
 Owners of private parking spaces :
 ![Empathy map InvidualOwner](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
