@@ -173,6 +173,56 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5
 
 ### MS3
 
+### 1. Brainstorming process
+### 2. Decision process
+### 3. Empathy maps
+    <details>
+
+<summary>
+Owners of parking lots :
+</summary>
+
+
+</details>
+  
+<details>
+<summary>
+Occasional User :
+</summary>
+  
+
+
+</details>
+
+<details>
+<summary>
+Concurrent user :
+
+</summary>
+
+
+</details>
+
+<details>
+<summary>
+Owners of private parking spaces :
+</summary>
+
+
+
+</details>
+
+<details>
+<summary>
+Parking lots employees :
+</summary>
+
+
+</details>
+
+### 4. Personas 
+### 5. Description of the solution
+
 
 
 
