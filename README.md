@@ -207,7 +207,8 @@ Owners of private parking spaces :
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
 
 Parking lots employees :
-![Owners Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/c12cf9d7-18e8-487d-9bb0-6eacae83b23b)
+![Employee Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/39b0a5a6-1cf5-4813-a93c-004d415e2687)
+
 
 
 
