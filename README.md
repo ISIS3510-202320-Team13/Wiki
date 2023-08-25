@@ -28,7 +28,15 @@ Team 13
    
 
 ### MS2
-[Back to top](#Wiki)
+**Table of Contents MS2**
+1. [List the 4 problems](#1-list-the-4-problems)
+2. [Interviews structures](#2-interviews-structures)
+3. [Audios](#3-Audios)
+4. [Situations](#4-identify-4-complete-situations-for-each-interview-whathow-why)
+5. [Journey Maps](#5-2-journey-maps)
+6. [Description of the brainstorming](#6-description-of-the-brainstorming-process-and-the-possible-solutions-that-came)
+7. [Prototype](#7-build-a-prototype-and-describe-it-based-on-the-brainstorming)
+8. [Back to top](#Wiki)
 
 ### 1. List the 4 problems.
    ### * Parking:
@@ -38,8 +46,8 @@ Team 13
    ### * ticket problem:
    The problem of falsification and scams related to the sale of event tickets is on the rise due to factors like online platforms, anonymity, high-demand events, sophisticated scam techniques, lack of regulation, and limited awareness. 
    ### * Procrastination and waste of time :
-The issue of struggling to concentrate on activities due to excessive use of social media and mobile games is a common challenge in today's digital age. This phenomenon is often referred to as "digital distraction" or "digital addiction." It can have negative impacts on productivity, mental well-being, and overall quality of life. 
-
+The issue of struggling to concentrate on activities due to excessive use of social media and mobile games is a common challenge in today's digital age. This phenomenon is often referred to as "digital distraction" or "digital addiction." It can have negative impacts on productivity, mental well-being, and overall quality of life. <br />
+[Back to MS2](#ms2)
 
 ### 2. Interviews structures
 
@@ -48,8 +56,8 @@ The issue of struggling to concentrate on activities due to excessive use of soc
 * Sergio Esteban Peñuela :[Interview_sepenuela.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425115/Interview_sepenuela.pdf)
 * Cristóbal Arroyo : [Interview j.arroyo.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386916/InterviewFormat.pdf)
 * Juan Diego Lugo Sánchez : [jd.lugo_interview.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12421307/jd.lugo_interview.pdf)
-* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)
-
+* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://github.com/ISIS3510-202320-Team13/Wiki/files/12386953/Ticket.App.Interview.Format.pdf)<br />
+[Back to MS2](#ms2)
 
 ### 3. Audios:
 
@@ -62,12 +70,12 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/6f03dc85-888e-44d
 * Sergio Esteban Peñuela :
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/69486519/46244a87-a20d-41fe-b82c-4b9c14fd9cfc
 * Cristóbal Arroyo : [Link OneDrive](https://uniandes-my.sharepoint.com/:u:/g/personal/j_arroyo_uniandes_edu_co/EXK60GLtOKpPibyIoWznOgwBiefkM1RxeIsslamBrYn9Fw?e=GSO4eU)
-
-* Juan Diego Lugo Sánchez : 
-https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/66fa88f8-d635-4338-838e-2bdb5df4eebb
+* Juan Diego Lugo Sánchez : https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/66fa88f8-d635-4338-838e-2bdb5df4eebb
   Transcription: [Interviewer_transcript .pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12421303/Interviewer_transcript.pdf)
-* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://uniandes-my.sharepoint.com/:v:/g/personal/j_reyesc_uniandes_edu_co/EZZg6ce7sVZNm4XGHFvgUkoBk0Eovqd00-OhZLqu8xoj4A?e=r2mlJq)
-  
+* Juan Camilo Reyes (Ticket problem): [Interview j.reyesc](https://uniandes-my.sharepoint.com/:v:/g/personal/j_reyesc_uniandes_edu_co/EZZg6ce7sVZNm4XGHFvgUkoBk0Eovqd00-OhZLqu8xoj4A?e=r2mlJq)<br />
+
+[Back to MS2](#ms2)
+
 ### 4. Identify 4 complete situations for each interview( "What","How", "Why")
 
 <details>
@@ -149,14 +157,15 @@ Juan Camilo Reyes :
 
 </details>
 
+[Back to MS2](#ms2)
 
 ### 5. 2 Journey Maps
 ### Tickets
 [Customer Journey Map.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12387026/Customer.Journey.Map.pdf)
 ### Parking
-[JourneyMap.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425312/JourneyMap.pdf)
+[JourneyMap.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12425312/JourneyMap.pdf)<br />
 
-
+[Back to MS2](#ms2)
 
 
 ### 6. Description of the brainstorming process and the possible solutions that came 
@@ -164,36 +173,50 @@ The brainstorming was made in a meeting between the 6 members of the group, we m
 
 After the discussion, we chose the parking app problem to create a prototype of the solution.
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/61635baa-cdcd-425f-bf52-cb9e61b75ef8)
-![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/d56ac085-7977-4016-8724-0c7952d8f8a2)
+![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/d56ac085-7977-4016-8724-0c7952d8f8a2)<br />
 
-
+[Back to MS2](#ms2)
 
 ### 7. Build a prototype and describe it based on the brainstorming
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5f-a750-23c9ece6b3cb
 
+[Back to MS2](#ms2)
 ### MS3
+**Table of Contents MS3**
+1. [Brainstorming process](#1-brainstorming-process)
+2. [Decision process](#2-decision-process)
+3. [Empathy maps](#3-empathy-maps)
+4. [Personas](#4-personas)
+5. [Description of the solution](#5-description-of-the-solution)
+6. [Back to top](#Wiki)
 
 ### 1. Brainstorming process
+[Back to MS3](#ms3)
 ### 2. Decision process
+[Back to MS3](#ms3)
 ### 3. Empathy maps
 Possible Users
 Owners of parking lots :
+
 
 Occasional User :
 
 Concurrent user :
 
 Owners of private parking spaces :
-![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/empathy_map_jd.lugo.png)
+![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
 
 Parking lots employees :
+![Employee Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/39b0a5a6-1cf5-4813-a93c-004d415e2687)
 
 
+
+
+[Back to MS3](#ms3)
 ### 4. Personas 
+[Back to MS3](#ms3)
 ### 5. Description of the solution
-
-
-
+[Back to MS3](#ms3)
 
 [Back to top](#Wiki)
 
