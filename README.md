@@ -215,10 +215,14 @@ Person who doesn't use the app :
 
 [Back to MS3](#ms3)
 ### 4. Personas 
-![Brainstorming User Persona Minimalista Azul](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/98f766c9-fa68-4f3c-9886-96df04e72483)
 
-####Concurrent User
+#### Concurrent User
 ![User Concurrente](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/persona_concurrent_user.png)
+### Situational User
+![Persona drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/34e7a104-8145-4568-8036-043aefa48bcb)
+### Owner of cars
+![CarOwnerPersona drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/cc9163b9-12df-4713-942a-2721949dca49)
+
 
 [Back to MS3](#ms3)
 ### 5. Description of the solution
