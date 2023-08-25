@@ -204,7 +204,7 @@ Occasional User :
 Concurrent user :
 
 Owners of private parking spaces :
-![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3-EmpathyMaps/empathy_map_jd.lugo.png)
+![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
 
 Parking lots employees :
 ![Owners Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/c12cf9d7-18e8-487d-9bb0-6eacae83b23b)
