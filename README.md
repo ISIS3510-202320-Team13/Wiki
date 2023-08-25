@@ -206,7 +206,8 @@ Concurrent user :
 Owners of private parking spaces :
 ![Brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3-EmpathyMaps/empathy_map_jd.lugo.png)
 
-Parking lots employees :
+Parking lots employees :![Owners Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/9bf6f9e9-b567-49fb-bb50-3b9499277e54)
+
 
 [Back to MS3](#ms3)
 ### 4. Personas 
