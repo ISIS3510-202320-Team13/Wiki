@@ -126,6 +126,7 @@ Cristóbal Arroyo :
 <summary>
 Juan Diego Lugo Sánchez :
 </summary>
+    
 | Situation | What?                                                | How?                                                            | Why?                                                                              | Who?                                                |
 | --------- | ---------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 1         | Market demand for a secure ticket resale application | Develop a ticket resale application with security features      | Prevent fraud and provide a secure way for buyers and sellers to exchange tickets | Client of events                                    |
