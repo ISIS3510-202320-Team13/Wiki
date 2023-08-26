@@ -55,7 +55,7 @@ Person who doesn't use the app :
 ### Situational User
 ![Untitled Diagram drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/009b2298-7673-4593-96e1-fdd7c767b9e0)
 ### Person that don't use the app
-![CarOwnerPersona drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/cc9163b9-12df-4713-942a-2721949dca49)
+![PrivateParkingOwnerPersona drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/d0b4b3d1-db37-4b9d-a7a8-cc999e068c3d)
 
 
 [Back to MS3](#ms3)
