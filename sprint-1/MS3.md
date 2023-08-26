@@ -5,7 +5,7 @@
 3. [Empathy maps](#3-empathy-maps)
 4. [Personas](#4-personas)
 5. [Description of the solution](#5-description-of-the-solution)
-6. [Back to top](#Wiki)
+6. [Back to Home](../README.md)
 
 ### 1. Brainstorming process
 
