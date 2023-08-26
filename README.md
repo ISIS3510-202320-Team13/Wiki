@@ -191,7 +191,14 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/9bf3e6d6-fb94-4f5
 6. [Back to top](#Wiki)
 
 ### 1. Brainstorming process
-[Back to MS3](#ms3)
+
+Our brainstorm process was mainly giving a lot of ideas and selecting the features that can give value to the user
+
+![brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/593ecf39-488d-4d99-8fa9-7da9f263c7c5)
+
+![brainstorm](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/6f15e60d-4778-4d52-acdf-4e398d089680)
+
+
 ### 2. Decision process
 [Back to MS3](#ms3)
 ### 3. Empathy maps
