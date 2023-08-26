@@ -200,7 +200,13 @@ Our brainstorm process was mainly giving a lot of ideas and selecting the featur
 
 
 ### 2. Decision process
-[Back to MS3](#ms3)
+
+To make the decision, we met and discussed what were the pros and cons of each approach. After we expressed all our opinions, we created a microsoft forms to vote for each proposal and then select the most voted one. You can check the results in:
+
+[ProyectoMoviles.pdf](https://github.com/ISIS3510-202320-Team13/Wiki/files/12444213/ProyectoMoviles.pdf)
+
+The final decision was "Parking App" problem.
+
 ### 3. Empathy maps
 Possible Users
 Owners of parking lots :
