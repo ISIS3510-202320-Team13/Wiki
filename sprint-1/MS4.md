@@ -36,16 +36,21 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 ## 4.Context canvas for the selected problem
 
 ## 5. 10 business questions
-### *
-### *
-### *
-### *
-### *
-### *
-### *
-### *
-### *
-### *
+
+Type 1:
+* Are the parking spots loading in less than 3 seconds or do we have to change something to achieve this?
+
+Type 2:
+* At what time is X parking occupied the most? (Could also be T4?)
+* At what time is X parking occupied the least? (Could also be T4? and the same as the previous one?) 
+* At what time does the user use the app the most?
+
+Type 3:
+* Which features are the users using to looking for a parking spot?
+
+Type 4:
+
+Type 5:
 
 ## 6. VD Map 
 
