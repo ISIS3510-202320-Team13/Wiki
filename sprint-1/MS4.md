@@ -52,6 +52,7 @@ Type 3:
 * Wich spots and section of the parking are the less used?
 * Which users came from the same location at the same time?
 * Which users share the same destination and are departing from the parking lot at the same time?
+
 Type 4:
 * What parking spots are the most requested in the city?
 * From which part of the city did the majority of the cars come?
