@@ -57,7 +57,7 @@ Type 4:
 * From which part of the city did the majority of the cars come?
 
 Type 5:
-*wich are the users who use the parking service for morethan 6 hours on a day?(type 2, type 3, type 4)
+* wich are the users who use the parking service for morethan 6 hours on a day?(type 2, type 3, type 4)
 
 ## 6. VD Map 
 
