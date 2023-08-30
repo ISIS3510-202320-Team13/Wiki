@@ -25,7 +25,7 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 
 ## 2. Analytics Persona
 
-## 3. Problems.-Alternative-Solutions. It must have at least YX PAS
+## 3. Problems.-Alternative-Solutions. It must have at least 12 PAS
   ### a. Juan Diego Lugo:
   ### b. Sergio:
   ### c. Juan Camilo Reyes:
@@ -49,6 +49,7 @@ Type 3:
 * Which features are the users using to looking for a parking spot?
 
 Type 4:
+* What parking spots are the most requested in the city?
 
 Type 5:
 
