@@ -29,7 +29,7 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 
 ## 3. Problems.-Alternative-Solutions. It must have at least 12 PAS
   ### a. Juan Diego Lugo:
-  ### b. Sergio:
+  ### b. Sergio Peñuela:
 1. Get a parking spot for a monthly fee
 * **Problem**: 1.	Jairo needs a to find a reliable and secure parking lot near his workplace for the next three months.
 * **Alternatives**: Jairo starts walking or driving around the neighborhood where his workplace is located trying to find parking spots available for monthly rents.
