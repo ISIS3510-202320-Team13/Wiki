@@ -41,17 +41,17 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 * **Alternatives**: he wakes up at 5 AM to arrive the university at 6 AM to find an available parking spot
 * **Solutions**:  Juan uses ParkEz to reserve a parking spot the night before so he can have a good rest.
 
-  ### e. Nicolás Falla:
+### e. Nicolás Falla:
 
-  1. Find the cheapest parking lot
-  * **Problem**: Santiago is tired of wasting so much money on expensive parking lots so he decides que wants to find a cheaper option that is still close to the university.
-  * **Alternatives**: Santiago walks around the university checking out all of the different parking lots and the range of prices they offer.
-  * **Solutions**: Santiago uses ParkEz to check out all of the prices and compare them.
+1. Find the cheapest parking lot
+* **Problem**: Santiago is tired of wasting so much money on expensive parking lots so he decides que wants to find a cheaper option that is still close to the university.
+* **Alternatives**: Santiago walks around the university checking out all of the different parking lots and the range of prices they offer.
+* **Solutions**: Santiago uses ParkEz to check out all of the prices and compare them.
  
-  2. Marketing parking lo to new costumers
-  * **Problem**: Hernando notices that he doesn't get many people to park in his parking lot because it is located in a place with low visibility
-  * **Alternatives**: Hernando hands out flyers and spends money on a sign to hang in a place where people will see it in order to get the word around of his new parking lot.
-  * **Solutions**: Hernando posts his parking lot on ParkEz, so that way a lot of people instantly notice his business.
+2. Marketing parking lo to new costumers
+* **Problem**: Hernando notices that he doesn't get many people to park in his parking lot because it is located in a place with low visibility
+* **Alternatives**: Hernando hands out flyers and spends money on a sign to hang in a place where people will see it in order to get the word around of his new parking lot.
+* **Solutions**: Hernando posts his parking lot on ParkEz, so that way a lot of people instantly notice his business.
   ### f. Sebastian Caceres:
 
 ## 4.Context canvas for the selected problem
