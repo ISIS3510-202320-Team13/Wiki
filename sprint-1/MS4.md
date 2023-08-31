@@ -30,6 +30,15 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 ## 3. Problems.-Alternative-Solutions. It must have at least 12 PAS
   ### a. Juan Diego Lugo:
   ### b. Sergio:
+1. Get a parking spot for a monthly fee
+* **Problem**: 1.	Jairo needs a to find a reliable and secure parking lot near his workplace for the next three months.
+* **Alternatives**: Jairo starts walking or driving around the neighborhood where his workplace is located trying to find parking spots available for monthly rents.
+* **Solutions**: Jairo uses ParkEz from his house so he can find nearby parking lots from his workplace that offer a monthly fee in exchange for the use of the parking spot while also having the information and past experiences of other customers in order to decide which parking spot to rent.
+2. Feel safe while renting her parking lot to strangers
+* **Problem**: 2.	Obeida doesn’t feel safe renting her available parking spot to people she meets in facebook groups or other types of social media
+* **Alternatives**: Obeida stops looking for unknown people and decides only to rent her parking spot to people she knows but her parking lot remains empty most of the time.
+* **Solutions**: Obeida uses ParkEz to rent her available parking spot and feels secure because she gets access to the information of the person renting her parking lot and how the person has behaved with other renters 
+
   ### c. Juan Camilo Reyes:
 
 1. Place a spot for rent
