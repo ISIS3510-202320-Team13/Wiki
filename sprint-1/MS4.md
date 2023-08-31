@@ -30,6 +30,17 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
   ### b. Sergio:
   ### c. Juan Camilo Reyes:
   ### d. Cristobal:
+
+1. Felipe wants to park his car near the university when he arrives for his class.
+* **Problem**: University's and near parking spots are full and Felipe He's worried he won't find one for him on time.
+* **Alternatives**: he thrives in the near streets, looking for different parking sites and available parking spots
+* **Solutions**: Felipe uses ParkEz to find the nearest parking spot available as ASAP.
+
+2. Juan wants to park his car near the university tomorrow before his class.
+* **Problem**: Juan he's worried he won't find a parking spot on the university before his 9 AM class
+* **Alternatives**: he wakes up at 5 AM to arrive the university at 6 AM to find an available parking spot
+* **Solutions**:  Juan uses ParkEz to reserve a parking spot the night before so he can have a good rest.
+
   ### e. Nicolás Falla:
   ### f. Sebastian Caceres:
 
