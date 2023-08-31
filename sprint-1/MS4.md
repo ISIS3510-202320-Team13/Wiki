@@ -29,6 +29,17 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
   ### a. Juan Diego Lugo:
   ### b. Sergio:
   ### c. Juan Camilo Reyes:
+
+1. Place a spot for rent
+* **Problem**: Daniel has an unused parking spot in his building's parking area, and he wants to rent it out to generate extra income. However, he doesn't personally know anyone who is interested in renting the spot.
+* **Alternatives**: He reaches out to friends and family to search for potential renters.
+* **Solutions**: He decides to list the parking spot for rent on ParkEZ. By doing so, people can rent the spot for varying durations, ranging from hours to days or even months. This approach ensures that he will eventually find someone interested in renting the spot.
+  
+2.  
+* **Problem**: 
+* **Alternatives**:
+* **Solutions**: 
+  
   ### d. Cristobal:
 
 1. Find the nearest parking spot
