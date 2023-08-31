@@ -35,10 +35,10 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 * **Alternatives**: He reaches out to friends and family to search for potential renters.
 * **Solutions**: He decides to list the parking spot for rent on ParkEZ. By doing so, people can rent the spot for varying durations, ranging from hours to days or even months. This approach ensures that he will eventually find someone interested in renting the spot.
   
-2.  
-* **Problem**: 
-* **Alternatives**:
-* **Solutions**: 
+2. Managing a parking business
+* **Problem**: Gonzalo is the owner of several parking spots across the city. He's interested in assessing the performance of each parking spot and understanding the extent of their success.
+* **Alternatives**: physically visiting each parking spot and conversing with the respective managers.
+* **Solutions**: Uses ParkEZ for this purpose. By accessing the app, he can retrieve comprehensive data from each parking lot. Armed with various statistics, he can efficiently determine which parking spots are excelling and which ones might be underperforming, all from the convenience of his home.
   
   ### d. Cristobal:
 
