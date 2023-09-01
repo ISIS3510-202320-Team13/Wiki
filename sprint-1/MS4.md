@@ -80,6 +80,18 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
   
   ### f. Sebastian Caceres:
 
+User:  Parking Choice Planner
+
+Problem: Pedro faces difficulty in choosing a suitable parking spot when arriving at a destination.
+
+Alternative: Pedro relies on random street parking or drives around searching for available spots, leading to uncertainty and time wastage.
+
+Solution: Pedro utilizes ParkEz to plan his parking in advance, identifying available parking options near his destination and making an informed choice for a convenient parking spot. This approach saves time and reduces the frustration of finding parking on the spot.
+
+
+
+
+
 ## 4.Context canvas for the selected problem
 
 ## 5. 10 business questions
