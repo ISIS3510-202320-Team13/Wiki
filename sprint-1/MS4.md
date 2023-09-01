@@ -93,6 +93,7 @@ Solution: Pedro utilizes ParkEz to plan his parking in advance, identifying avai
 
 
 ## 4.Context canvas for the selected problem
+![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/946b8fe8-15b7-4c99-8d2f-25fe8f4ebc40)
 
 ## 5. 10 business questions
 
