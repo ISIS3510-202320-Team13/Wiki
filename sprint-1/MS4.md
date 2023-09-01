@@ -96,7 +96,7 @@ Type 2:
 
 Type 3:
 * Which features are the users using to look for parking spots?
-* Which spots and sections of the parking are the less used?
+* Which spots and sections of the parking are the most/less used?
 * What criteria are the users using to select a parking spot?
 
 Type 4:
