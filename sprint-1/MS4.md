@@ -85,27 +85,26 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 ## 5. 10 business questions
 
 Type 1:
-* Are the parking spots loading in less than 3 seconds(on devices with Android version 8.0 or higher) or do we have to change something to achieve this?
-*Which part of the code is the most time and storage complex?
+* Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this?
+* Which are the parts of the code that consume the most phone resources?
 
 Type 2:
-* At what time is X parking occupied the most? (Could also be T4?)
-* At what time is X parking occupied the least? (Could also be T4? and the same as the previous one?) 
+* At what time is a parking occupied the most/least? 
 * At what time does the user use the app the most?
-
+* What is the minimum/average/maximum price a user would pay for reserving a parking spot?
+* What is the average waiting time for a parking spot to be freed?
 
 Type 3:
-* Which features are the users using to looking for a parking spot?
-* Wich spots and section of the parking are the less used?
-* Which users came from the same location at the same time?
-* Which users share the same destination and are departing from the parking lot at the same time?
+* Which features are the users using to look for parking spots?
+* Which spots and sections of the parking are the less used?
+* What criteria are the users using to select a parking spot?
 
 Type 4:
 * What parking spots are the most requested in the city?
 * From which part of the city did the majority of the cars come?
 
 Type 5:
-* wich are the users who use the parking service for morethan 6 hours on a day?(type 2, type 3, type 4)
+* Which are the users who use the parking service for more than 6 hours on a day? (type 2, 3, 4)
 
 ## 6. VD Map 
 
