@@ -120,4 +120,5 @@ Type 5:
 
 ## 6. VD Map 
 
-![ParkEz VD Map](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS4/ParkEz%20VDMap.png)
+![ParkEz VD Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/bde34894-aabb-4a65-9f2a-c12cbcc6ec77)
+
