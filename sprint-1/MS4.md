@@ -103,7 +103,7 @@ Type 1:
 Type 2:
 * At what time is a parking occupied the most/least? 
 * At what time does the user use the app the most?
-* What is the minimum/average/maximum price a user would pay for reserving a parking spot?
+* What is the average/maximum price a user would pay for reserving a parking spot?
 * What is the average waiting time for a parking spot to be freed?
 
 Type 3:
