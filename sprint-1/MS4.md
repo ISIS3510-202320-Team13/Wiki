@@ -104,7 +104,8 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 * **Solution:** Carlos uses ParkEz to show to the people that uses the app that has empty spots
 
 ## 4.Context canvas for the selected problem
-![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/946b8fe8-15b7-4c99-8d2f-25fe8f4ebc40)
+![Untitled Diagram drawio (1)](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/f0daa6bd-2810-4e98-b7be-6a6bb6930f78)
+
 
 ## 5. 10 business questions
 
