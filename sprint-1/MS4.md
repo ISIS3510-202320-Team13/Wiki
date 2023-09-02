@@ -2,9 +2,9 @@
 ## 1. Problem and Solution statements:
 ### Problem Statement:
 
-**Uniandes Parking App**:
+**Bogota Parking App**:
 
-It's well known that Los Andes University's parking lots are limited, all potential users (specially students), have to make long lines and wait tens of minutes for being able to park inside the only parking lot that this institution has. One of the biggest problems is not knowing when a parking lot is free, if are they full or what's the approximate time in line for getting a place to park. 
+It's well known that in some parts of Bogota parking lots are limited, all potential users (specially students,workers and tourists), have to make long lines and wait tens of minutes for being able to park . One of the biggest problems is not knowing when a parking lot is free, if are they full or what's the approximate time in line for getting a place to park. 
 Knowing the actual situation, if the potential users of the parking lot could get real time information about the parking lot state, statistics about it or even make a reservation, lots of problems related with it could be solved.  
 
 ### Proposed Solution:  **ParkEz**
