@@ -28,9 +28,7 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 ![Analytics Persona](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS4/Analyticpersona.png)
 
 ## 3. Problems.-Alternative-Solutions. It must have at least 12 PAS
-  ### a. Juan Diego Lugo:
-  
-  
+
   1. Get a parking spot for a monthly fee
   * **Problem**: 1.	Jairo needs a to find a reliable and secure parking lot near his workplace for the next three months.
   * **Alternatives**: Jairo starts walking or driving around the neighborhood where his workplace is located trying to find parking spots available for monthly rents.
@@ -83,7 +81,7 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 * **Solution:** Pedro utilizes ParkEz to plan his parking in advance, identifying available parking options near his destination and making an informed choice for a convenient parking spot. This approach saves time and reduces the frustration of finding parking on the spot.
 
 
-  10. Parking Cost Saver
+10 . Parking Cost Saver
 
 * **Problem:** Maria is concerned about the high costs of parking near her workplace and wants to find an affordable alternative.
 
