@@ -81,7 +81,8 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 * **Solution:** Pedro utilizes ParkEz to plan his parking in advance, identifying available parking options near his destination and making an informed choice for a convenient parking spot. This approach saves time and reduces the frustration of finding parking on the spot.
 
 
-10 . Parking Cost Saver
+10. Parking Cost Saver
+
 
 * **Problem:** Maria is concerned about the high costs of parking near her workplace and wants to find an affordable alternative.
 
@@ -89,8 +90,9 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 
 * **Solution:** Maria uses ParkEz to find and compare parking prices in her area. By accessing the app, she can quickly identify the cheapest parking lots, ensuring she saves money without compromising convenience. This approach simplifies the process of finding affordable parking.
 
-
-
+ 
+11. Juan Diego
+12. Juan Diego
 ## 4.Context canvas for the selected problem
 ![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/946b8fe8-15b7-4c99-8d2f-25fe8f4ebc40)
 
