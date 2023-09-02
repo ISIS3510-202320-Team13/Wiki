@@ -30,7 +30,6 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 ## 3. Problems.-Alternative-Solutions. It must have at least 12 PAS
   ### a. Juan Diego Lugo:
   
-  ### b. Sergio Peñuela:
   
   1. Get a parking spot for a monthly fee
   * **Problem**: 1.	Jairo needs a to find a reliable and secure parking lot near his workplace for the next three months.
@@ -44,51 +43,53 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 
   ### c. Juan Camilo Reyes:
 
-  1. Place a spot for rent
+  3. Place a spot for rent
   * **Problem**: Daniel has an unused parking spot in his building's parking area, and he wants to rent it out to generate extra income. However, he doesn't personally know anyone who is interested in renting the spot.
   * **Alternatives**: He reaches out to friends and family to search for potential renters.
   * **Solutions**: He decides to list the parking spot for rent on ParkEZ. By doing so, people can rent the spot for varying durations, ranging from hours to days or even months. This approach ensures that he will eventually find someone interested in renting the spot.
     
-  2. Managing a parking business
+  4. Managing a parking business
   * **Problem**: Gonzalo is the owner of several parking spots across the city. He's interested in assessing the performance of each parking spot and understanding the extent of their success.
   * **Alternatives**: physically visiting each parking spot and conversing with the respective managers.
   * **Solutions**: Uses ParkEZ for this purpose. By accessing the app, he can retrieve comprehensive data from each parking lot. Armed with various statistics, he can efficiently determine which parking spots are excelling and which ones might be underperforming, all from the convenience of his home.
   
-  ### d. Cristobal:
-
-  1. Find the nearest parking spot
+  5. Find the nearest parking spot
   * **Problem**: Felipe wants to park his car near the university when he arrives for his class. However, university's and near parking spots are full and Felipe He's worried he won't find one for him on time.
   * **Alternatives**: he thrives in the near streets, looking for different parking sites and available parking spots
   * **Solutions**: Felipe uses ParkEz to find the nearest parking spot available as ASAP.
   
-  2. Reserve a parking spot
+  6. Reserve a parking spot
   * **Problem**: Juan he's worried he won't find a parking spot on the university before his 9 AM class, as they are often full after 7AM.
   * **Alternatives**: he wakes up at 5 AM to arrive the university at 6 AM to find an available parking spot
   * **Solutions**:  Juan uses ParkEz to reserve a parking spot the night before so he can have a good rest.
 
-  ### e. Nicolás Falla:
   
-  1. Find the cheapest parking lot
+  7. Find the cheapest parking lot
   * **Problem**: Santiago is tired of wasting so much money on expensive parking lots so he decides que wants to find a cheaper option that is still close to the university.
   * **Alternatives**: Santiago walks around the university checking out all of the different parking lots and the range of prices they offer.
   * **Solutions**: Santiago uses ParkEz to check out all of the prices and compare them.
    
-  2. Marketing parking lo to new costumers
+  8. Marketing parking lo to new costumers
   * **Problem**: Hernando notices that he doesn't get many people to park in his parking lot because it is located in a place with low visibility
   * **Alternatives**: Hernando hands out flyers and spends money on a sign to hang in a place where people will see it in order to get the word around of his new parking lot.
   * **Solutions**: Hernando posts his parking lot on ParkEz, so that way a lot of people instantly notice his business.
   
-  ### f. Sebastian Caceres:
+  9.  Parking Choice Planner
 
-User:  Parking Choice Planner
+* **Problem:** Pedro faces difficulty in choosing a suitable parking spot when arriving at a destination.
 
-Problem: Pedro faces difficulty in choosing a suitable parking spot when arriving at a destination.
+* **Alternative:** Pedro relies on random street parking or drives around searching for available spots, leading to uncertainty and time wastage.
 
-Alternative: Pedro relies on random street parking or drives around searching for available spots, leading to uncertainty and time wastage.
-
-Solution: Pedro utilizes ParkEz to plan his parking in advance, identifying available parking options near his destination and making an informed choice for a convenient parking spot. This approach saves time and reduces the frustration of finding parking on the spot.
+* **Solution:** Pedro utilizes ParkEz to plan his parking in advance, identifying available parking options near his destination and making an informed choice for a convenient parking spot. This approach saves time and reduces the frustration of finding parking on the spot.
 
 
+  10. Parking Cost Saver
+
+* **Problem:** Maria is concerned about the high costs of parking near her workplace and wants to find an affordable alternative.
+
+* **Alternative:** Maria searches for parking deals or discounts manually, which can be time-consuming and unreliable.
+
+* **Solution:** Maria uses ParkEz to find and compare parking prices in her area. By accessing the app, she can quickly identify the cheapest parking lots, ensuring she saves money without compromising convenience. This approach simplifies the process of finding affordable parking.
 
 
 
