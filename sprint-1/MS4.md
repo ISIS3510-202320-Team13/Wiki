@@ -91,8 +91,18 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 * **Solution:** Maria uses ParkEz to find and compare parking prices in her area. By accessing the app, she can quickly identify the cheapest parking lots, ensuring she saves money without compromising convenience. This approach simplifies the process of finding affordable parking.
 
  
-11. Juan Diego
-12. Juan Diego
+11.  Difficulties finding a parking lot with empty spots
+
+* **Problem:** Paula is worried about going to a place that is known for be usual to not have availability.
+* **Alternative:** Paula searches for parking after going to that place in order to not waste time looking for each parking lot
+* **Solution:** Paula uses ParkEz to find and reserve to secure a parking spot.
+
+12. Difficulties getting enough customers for his parking lot that is not on a principal street
+
+* **Problem:** Carlos is not getting enough customers for his parking near to a frequently visited place.
+* **Alternative:** Carlos put a sign pointing to this business.
+* **Solution:** Carlos uses ParkEz to show to the people that uses the app that has empty spots
+
 ## 4.Context canvas for the selected problem
 ![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/946b8fe8-15b7-4c99-8d2f-25fe8f4ebc40)
 
