@@ -25,7 +25,7 @@ ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes u
 
 ## 2. Analytics Persona
 
-![Analytics Persona](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS4/Analyticpersona.png)
+![Analytics Persona](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS4/Analyticpersona.drawio.png)
 
 ## 3. Problems.-Alternative-Solutions. It must have at least 12 PAS
 
