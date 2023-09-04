@@ -7,7 +7,7 @@
 5. [Journey Maps](#5-2-journey-maps)
 6. [Description of the brainstorming](#6-description-of-the-brainstorming-process-and-the-possible-solutions-that-came)
 7. [Prototype](#7-build-a-prototype-and-describe-it-based-on-the-brainstorming)
-8. [Back to top](#Wiki)
+8. [Back to Home](../README.md)
 
 ### 1. List the 4 problems.
    ### * Parking:
