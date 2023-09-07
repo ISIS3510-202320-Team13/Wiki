@@ -64,3 +64,27 @@ Problems-Alternative-Solutions.
 *	Alternative: Carlos put a sign pointing to this business.
 *	Solution: Carlos uses ParkEz to show to the people that uses the app that has empty spots
 
+## 6. 10 business questions
+
+Type 1 (Questions related to app performance):
+* Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this?
+* Exist a screen or module that makes the app crashes? Where, when and why?
+* are the credit card payments processing in les than 10 seconds? Is an api issue or an app issue?
+
+Type 2:
+* At what time is a parking occupied the most/least? 
+* At what time does the user use the app the most?
+* What are the nearest parking from the users' most frequented places?
+* What is the average waiting time for a parking spot to be freed?
+
+Type 3:
+* Which features are the users using to look for parking spots?
+* Which spots and sections of the parking are the most/less used?
+* How many times per reserve is the user location matching the parking location, so we can keep track real reservation start-end times?
+
+Type 4:
+* What parking spots are the most requested in the city?
+* What is the average/maximum price a user would pay for reserving a parking spot?
+
+Type 5:
+* What users use the parking service for more than 6 hours on a day? (type 2, 4)
