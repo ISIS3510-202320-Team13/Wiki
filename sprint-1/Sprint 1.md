@@ -157,3 +157,20 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | Changes in the context | The app is waiting for the server to respond to the petitions while the user waits for an answer                                                                                           |
 | System reaction        | The app waits for the response in the background and allows the user to interact with other parts of the app. When the petition is finished, a message will notify the user the response of their request |
 
+3. The app is being used in broad sunlight
+
+| **Scenario Name**      | The app is being used in broad sunlight  |
+|------------------------|---|
+| Quality attributes     | Usability, responsiveness  |
+| App status and context | The app is being used normally, either looking for parking spots or fetching new ones  |
+| Changes in the context | The user is standing in broad sunlight and can't see the screen correctly  |
+| System reaction        | The app increases the brightness and the contrast of the colors  |
+
+4. The app is being used by a user that needs glasses but doesn't have them
+
+| **Scenario Name**      | The app is being used by a user that needs glasses but doesn't have them  |
+|------------------------|---|
+| Quality attributes     | Usability, accesibility  |
+| App status and context | The app is being used to see the list of nearby parking lots  |
+| Changes in the context | The user can't see the letters due to them being small  |
+| System reaction        | The user can increase the font size in the settings of the app  |
