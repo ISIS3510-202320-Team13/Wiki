@@ -30,8 +30,8 @@ Owners of parking lots :
 
 
 Occasional User :
+![Untitled_2023-09-08_13-33-35](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/2c7cc3fb-9022-45b4-8da3-c33e0aa86737)
 
-<img width="263" alt="Empathy map ocassionalUser" src="https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/fb42a1b4-61b1-4574-ba60-e4ddc697f0af">
 
 
 Concurrent user :
