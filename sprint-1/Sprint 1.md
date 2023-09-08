@@ -13,6 +13,30 @@
 10. [Ethics component](#5-description-of-the-solution)
 11. [Back to Home](../README.md)
 
+## 1. Proposed solution, revenue model and value proposal.
+
+Problem Statement:
+
+Bogota Parking App:
+
+It's well known that in some parts of Bogota parking lots are limited, all potential users (specially students,workers and tourists), have to make long lines and wait tens of minutes for being able to park . One of the biggest problems is not knowing when a parking lot is free, if are they full or what's the approximate time in line for getting a place to park. Knowing the actual situation, if the potential users of the parking lot could get real time information about the parking lot state, statistics about it or even make a reservation, lots of problems related with it could be solved.
+Proposed Solution: ParkEz
+
+ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes urban parking by seamlessly connecting large parking facilities and individual parking space owners with users. Through our user-friendly app, ParkEz offers a dynamic marketplace that transforms parking into a hassle-free experience for everyone involved.
+
+### Features:
+
+* Streamlined Connectivity: ParkEz serves as a bridge between large parking facilities and individual owners, creating a unified platform for users to find parking spaces effortlessly. 
+* Advanced Search: The platform provides an advanced search feature with filters, empowering users to locate their ideal parking spot based on factors such as location, price range, and availability.
+* Real-time Updates: Users receive real-time updates on available parking spaces from both provider types, enabling quick identification of vacant spots.
+* Effortless Booking: Booking with ParkEz is a breeze. Users can make online reservations in advance or secure parking instantly to cater to planned and spontaneous needs.
+* Effective Communication: Direct messaging facilitates effective communication between users and parking space providers, ensuring individual requirements are met.
+* Trust-building Reviews: A review and ratings system allows users to provide feedback on their parking experience, fostering trust and transparency in both large facilities and individual spaces.
+* Secure Transactions: Easy payment integration guarantees secure transactions for both types of providers, enhancing user confidence.
+* Reservation Managment: Parking space owners have access to reservation management tools that enhance the efficient handling of bookings.
+* Loyalty Program: A loyalty program rewards frequent users, adding an extra layer of benefits and incentives to the ParkEz experience.
+
+
 ## 2. Problems-Alternative-Solutions.
 Problems-Alternative-Solutions.
 1.	Get a parking spot for a monthly fee.
