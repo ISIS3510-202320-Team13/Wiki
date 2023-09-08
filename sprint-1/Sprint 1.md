@@ -90,28 +90,28 @@ Problems-Alternative-Solutions.
 
 ## 6. Business questions
 
-Type 1 (Questions related to app performance):
-* Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this?
-* Exist a screen or module that makes the app crashes? Where, when and why?
-* are the credit card payments processing in les than 10 seconds? Is an api issue or an app issue?
+Type 1 (App's telemetry: questions that are related to crashes, bugs, performance, stability issues, device-related statistics, etc.):
+* Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this? (performance)
+* Exist a screen or module that makes the app crashes? Where, when and why? (crashes)
+* are the credit card payments processing in les than 10 seconds? Is an api issue or an app issue? (performance)
 
-Type 2:
-* At what time is a parking occupied the most/least? 
-* At what time does the user use the app the most?
-* What are the nearest parking from the users' most frequented places?
-* What is the average waiting time for a parking spot to be freed?
+Type 2 (Direct user experience improvement: questions that focus on improving user experience in the daily usage/interaction.):
+* How many steps it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (improving user experience)
+* Is it useful for the user to see the last action they did?  (improving daily usage/interaction)
+* What are the nearest parking from the users' most frequented places? (improving daily usage/interaction)
+* What is the average waiting time for a parking spot to be freed? (improving experience)
 
-Type 3:
-* Which features are the users using to look for parking spots?
-* Which spots and sections of the parking are the most/less used?
-* How many times per reserve is the user location matching the parking location, so we can keep track real reservation start-end times?
+Type 3 (Features analysis: questions that helps the business to decide about the implementation of a new feature, or removal/update of an existing one.):
+* How much time is a user willing to wait for a parking spot to be freed? (new feature - approx time to wait)
+* Which spots and sections of the parking are the most/less used? (new feature - indicates that is a "preferred spot free")
+* How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time)
 
-Type 4:
-* What parking spots are the most requested in the city?
-* What is the average/maximum price a user would pay for reserving a parking spot?
+Type 4 (Benefits from data: questions that helps the business to understand how they can make profit or take advantage from its data with third party companies.):
+* Which places are the most requested in the city? (understand where is a business necessity)
+* What is the average/maximum price a user would pay for reserving a parking spot? (understand what is the optimal range of prices and if could be dinamic)
 
-Type 5:
-* What users use the parking service for more than 6 hours on a day? (type 2, 4)
+Type 5 (Questions that are meant to answer more than one topic from the other four types.):
+* What users use the parking service for more than 6 hours on a day? (type 2, 4) 
 
 ## 8. Functional Scenarios
 
