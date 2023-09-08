@@ -123,6 +123,8 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 
 1. I'm Juan Fernando, a student at "Universidad de los Andes", and I want to ensure that when I arrive with my car before my 9:00 class, there is a free parking spot available. To achieve this, I would like the system to display the available parking spots near the university. This way, when I select one, I can make a reservation.
 2. I'm Juan Fernando, a student at "Universidad de los Andes", and I want to find a cheap parking spot near the University. To achive this, I would like the system to display the price of parking spots near the university and sort them by price. This way, I could select a cheap one that fits my need. This is valuable to me because, as a student, I have a limited budget for my daily expenses.
+3. I'm Guillermo and I'm the owner of the Tequendama parking lot. I want to register my parking lot in the ParkEz app in order to organize my parking lot and get more costumers. To achieve this, I create an owner account and select the option to register my parking lot, here I enter the information of my parking lot and send the information. I then wait for ParkEz to verify this information and add my parking lot to the app.
+4. I'm Guillermo and I'm the owner of the Tequendama parking lot. I want to know which are the most used parking spaces in my parking lot in order to upgrade my other parking spaces. To achieve this, I login using my owner profile and click on the parking lot stats, here I can filter the data between the dates I want, and click on the option to see the most used parking spaces.
 
 ## 9. Quality Scenarios
 
