@@ -159,12 +159,12 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 
 3. The app is being used in broad sunlight
 
-| **Scenario Name**      | The app is being used in broad sunlight  |
-|------------------------|---|
-| Quality attributes     | Usability, responsiveness  |
+| **Scenario Name**      | The app is being used in broad sunlight                                                |
+|------------------------|----------------------------------------------------------------------------------------|
+| Quality attributes     | Usability, responsiveness                                                              |
 | App status and context | The app is being used normally, either looking for parking spots or fetching new ones  |
-| Changes in the context | The user is standing in broad sunlight and can't see the screen correctly  |
-| System reaction        | The app increases the brightness and the contrast of the colors  |
+| Changes in the context | The user is standing in broad sunlight and can't see the screen correctly              |
+| System reaction        | The app increases the brightness and the contrast of the colors                        |
 
 4. The app is being used by a user that needs glasses but doesn't have them
 
