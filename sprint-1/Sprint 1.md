@@ -93,3 +93,35 @@ Type 5:
 
 1. I'm Juan Fernando, a student at "Universidad de los Andes", and I want to ensure that when I arrive with my car before my 9:00 class, there is a free parking spot available. To achieve this, I would like the system to display the available parking spots near the university. This way, when I select one, I can make a reservation.
 2. I'm Juan Fernando, a student at "Universidad de los Andes", and I want to find a cheap parking spot near the University. To achive this, I would like the system to display the price of parking spots near the university and sort them by price. This way, I could select a cheap one that fits my need. This is valuable to me because, as a student, I have a limited budget for my daily expenses.
+
+## 9. Quality Scenarios
+
+<!-- TEMPLATE
+
+| **Scenario Name**      |   |
+|------------------------|---|
+| Quality attributes     |   |
+| App status and context |   |
+| Changes in the context |   |
+| System reaction        |   |
+
+-->
+
+1. Lack of internet connection when fetching Parking Spots
+
+| **Scenario Name**      | Lack of internet connection when fetching Parking Spots                                                 |
+|------------------------|---------------------------------------------------------------------------------------------------------|
+| Quality attributes     | Connectivity, resilience                                                                                |
+| App status and context | The app is fetching data from the server about Parking Spots near a place                               |
+| Changes in the context | The user gets into a zone where network connectivity is poor and eventually the data connection is lost |
+| System reaction        | App notifies the user about the poor connectivity and suggests to the user to resume the task later     |
+
+2. Too many request to ParkEz server when reserving a Parking Spot
+
+| **Scenario Name**      | Too many request to ParkEz server when reserving a Parking Spot                                                                                                                            |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Quality attributes     | Availability, scalability                                                                                                                                                                  |
+| App status and context | The app is making a request to ParkEz server, but the response time is high because it's getting a lot of petitions                                                                        |
+| Changes in the context | The app is waiting for the server to respond to the petitions while the user waits for an answer                                                                                           |
+| System reaction        | The app waits for the response in the background and allows the user to interact with other parts of the app. When the petition is finished, a message will notify the user the response of their request |
+
