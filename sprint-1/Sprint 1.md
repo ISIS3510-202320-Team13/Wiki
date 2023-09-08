@@ -88,6 +88,11 @@ Problems-Alternative-Solutions.
 *	Alternative: Carlos put a sign pointing to this business.
 *	Solution: Carlos uses ParkEz to show to the people that uses the app that has empty spots
 
+## 3. Context Canvas
+
+![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/b5723e45-6a20-41e3-b750-e6fd8f4084fc)
+
+
 ## 6. Business questions
 
 Type 1 (App's telemetry: questions that are related to crashes, bugs, performance, stability issues, device-related statistics, etc.):
