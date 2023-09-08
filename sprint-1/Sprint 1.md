@@ -1,8 +1,8 @@
 # Sprint 1
 
 **Table of Contents Sprint 1**
-1. [Proposed solution, revenue model and value proposal](#1-brainstorming-process)
-2. [PAS structure](#2-decision-process)
+1. [Proposed solution, revenue model and value proposal](#1-proposed-solution-revenue-model-and-value-proposal)
+2. [PAS structure](#2-problems-alternative-solutions)
 3. [Context Canvas](#3-empathy-maps)
 4. [Personas](#4-personas)
 5. [Empathy Maps](#5-description-of-the-solution)
@@ -111,7 +111,8 @@ Type 4 (Benefits from data: questions that helps the business to understand how 
 * What is the average/maximum price a user would pay for reserving a parking spot? (understand what is the optimal range of prices and if could be dinamic)
 
 Type 5 (Questions that are meant to answer more than one topic from the other four types.):
-* What users use the parking service for more than 6 hours on a day? (type 2, 4) 
+* What users use the parking service for more than 6 hours on a day? (type 2, 4)
+* how much revenue is lost from the app crashes leaving incomplete transactions? (type 1, 4)
 
 ## 8. Functional Scenarios
 
