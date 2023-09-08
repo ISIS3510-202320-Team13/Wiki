@@ -125,8 +125,8 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 2. I'm Juan Fernando, a student at "Universidad de los Andes", and I want to find a cheap parking spot near the University. To achive this, I would like the system to display the price of parking spots near the university and sort them by price. This way, I could select a cheap one that fits my need. This is valuable to me because, as a student, I have a limited budget for my daily expenses.
 3. I'm Guillermo and I'm the owner of the Tequendama parking lot. I want to register my parking lot in the ParkEz app in order to organize my parking lot and get more costumers. To achieve this, I create an owner account and select the option to register my parking lot, here I enter the information of my parking lot and send the information. I then wait for ParkEz to verify this information and add my parking lot to the app.
 4. I'm Guillermo and I'm the owner of the Tequendama parking lot. I want to know which are the most used parking spaces in my parking lot in order to upgrade my other parking spaces. To achieve this, I login using my owner profile and click on the parking lot stats, here I can filter the data between the dates I want, and click on the option to see the most used parking spaces.
-5. I'm Paula, a occasional Monserrate visitor, and every time i try to go to monserrate's parking lot is full no matter how early arrive so I want to have a reserved spot for me when I get there. To achive this I'd like to have an app that let me ensure that it will be an available spot. This way, no matter where in the parking lot, I have an space.
-6. I'm Paula, a occasional Monserrate visitor, and sometimes my foreign friends come to the city and we need a very long stay at a parking lot but rates are too high,  I would like the system that show me a parking spot that have special prices for long time even if it isn't a public parking lot. This way I won't pay a lot and park secure.
+5. I'm Paula, an occasional Monserrate visitor, and every time i try to go to monserrate's parking lot is full no matter how early arrive so I want to have a reserved spot for me when I get there. To achive this I'd like to have an app that let me ensure that it will be an available spot. This way, no matter where in the parking lot, I have an space.
+6. I'm Paula, an occasional Monserrate visitor, and sometimes my foreign friends come to the city and we need a very long stay at a parking lot but rates are too high,  I would like the system that show me a parking spot that have special prices for long time even if it isn't a public parking lot. This way I won't pay a lot and park secure.
 
 ## 9. Quality Scenarios
 
@@ -176,3 +176,21 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | App status and context | The app is being used to see the list of nearby parking lots  |
 | Changes in the context | The user can't see the letters due to them being small  |
 | System reaction        | The user can increase the font size in the settings of the app  |
+
+5. The app needs to be used without internet to access to a parking spot
+
+| **Scenario Name**      | The app needs to be used without internet to access to a parking spot                  |
+|------------------------|----------------------------------------------------------------------------------------|
+| Quality attributes     | Usability, Connectivity                                                                |
+| App status and context | The app can access to the QR or NFC entrance for the parkings with future reservations |
+| Changes in the context | The user is at a basement were internet connection is not available                    |
+| System reaction        | The app shows in landing page the future reservations and the access options           |
+
+6. The app is being used by a foreing user
+
+| **Scenario Name**      | The app is being used by a foreing user                                   |
+|------------------------|---------------------------------------------------------------------------|
+| Quality attributes     | Usability, accesibility                                                   |
+| App status and context | The app is being in another language                                      |
+| Changes in the context | The user can understand the technical words                               |
+| System reaction        | The user can see the options in their native language                     |
