@@ -70,6 +70,9 @@ We planned to offer a multidimensional revenue model in order to get the user ea
 10. #### Transaction Fees for Owners:
   Charge parking space owners a smaller fee if they made successful reservations through your platform. This encourages owners to actively use your service and list their parkings.
 
+## Value Proposal
+
+ParkEZ is the ultimate solution for anyone tired of the parking headache. It offers convenience, time savings, cost-efficiency, and peace of mind. Planning a trip? You can make parking spot reservations in advance, ensuring that you're making the best possible decision. Looking to rent out that empty parking spot in your garage? Don't worry; just publish it on our app, and you'll have extra income in no time. ParkEZ is the go-to app for stress-free parking reservations
 
 
 ## 2. Problems-Alternative-Solutions.
