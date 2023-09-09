@@ -131,7 +131,7 @@ Problems-Alternative-Solutions.
 
 ![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/b5723e45-6a20-41e3-b750-e6fd8f4084fc)
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
-## 3. Personas
+## 4. Personas
 
 Person Who Doesn't Use The App Persona
 ![PersonWhoDoesntUseTheApp](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/EmpathyMap_PersonWhoDoesNotUseApp.jpg.png)
