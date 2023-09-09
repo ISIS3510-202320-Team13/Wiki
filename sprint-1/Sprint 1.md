@@ -173,7 +173,8 @@ Type 3 (Features analysis: questions that helps the business to decide about the
 * How much time is a user willing to wait for a parking spot to be freed? (new feature - approx time to wait)
 * Which spots and sections of the parking are the most/less used? (new feature - indicates that is a "preferred spot free")
 * How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time)
-* What are the most common reasons for users canceling their parking reservations, and can we implement features to address these issues? (update/feature improvement - reducing reservation cancellations)  
+* What are the most common reasons for users canceling their parking reservations, and can we implement features to address these issues? (update/feature improvement - reducing reservation cancellations)
+
 Type 4 (Benefits from data: questions that helps the business to understand how they can make profit or take advantage from its data with third party companies.):
 * Which places are the most requested in the city? (understand where is a business necessity)
 * What is the average/maximum price a user would pay for reserving a parking spot? (understand what is the optimal range of prices and if could be dinamic)
@@ -331,4 +332,5 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 ## 10. Ethics component
 
 Link: https://youtu.be/aNnD9QHXxSc
+
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
