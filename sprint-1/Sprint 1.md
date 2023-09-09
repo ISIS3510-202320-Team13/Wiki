@@ -73,7 +73,7 @@ We planned to offer a multidimensional revenue model in order to get the user ea
 ## Value Proposal
 
 ParkEZ is the ultimate solution for anyone tired of the parking headache. It offers convenience, time savings, cost-efficiency, and peace of mind. Planning a trip? You can make parking spot reservations in advance, ensuring that you're making the best possible decision. Looking to rent out that empty parking spot in your garage? Don't worry; just publish it on our app, and you'll have extra income in no time. ParkEZ is the go-to app for stress-free parking reservations
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 2. Problems-Alternative-Solutions.
 Problems-Alternative-Solutions.
@@ -125,17 +125,17 @@ Problems-Alternative-Solutions.
 *	Problem: Carlos is not getting enough customers for his parking near to a frequently visited place.
 *	Alternative: Carlos put a sign pointing to this business.
 *	Solution: Carlos uses ParkEz to show to the people that uses the app that has empty spots
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 3. Context Canvas
 
 ![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/b5723e45-6a20-41e3-b750-e6fd8f4084fc)
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
 ## 3. Personas
 
 Person Who Doesn't Use The App Persona
 ![PersonWhoDoesntUseTheApp](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/EmpathyMap_PersonWhoDoesNotUseApp.jpg.png)
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 6. Business questions
 
@@ -163,11 +163,11 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 * What users use the parking service for more than 6 hours on a day? (type 2, 4)
 * how much revenue is lost from the app crashes leaving incomplete transactions? (type 1, 4)
 
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 7. VD MAP
 ![ParkEz VDMap drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/63ce86d6-a59b-4351-a5f6-a89dd728bbc9)
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 8. Functional Scenarios
 
@@ -183,7 +183,7 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 10. I'm David, a private parking spot owner, and I want to know the identity of the individuals renting my spot to ensure the safety of my property. This way, I can hold accountable those responsible for any damage to my property and also identify regular customers.
 11. I’m Jairo, a worker in the northern neighborhood of Bogotá. I’m interested in booking a parking spot near my workplace for a monthly fee. To achieve this, I would like to see which parking lots near my workplace offer a monthly fee for a parking spot (private or not). This way I can always guarantee an available parking spot.
 12. I’m Obeida, and I have an available parking spot in my house. I’m interested in renting my available parking spot to gain an extra income. To achieve this, I would like to put up my parking spot for rent in a safe app which lets me communicate with the people interested in the parking spot. This will help me get an extra income and feel safe.
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 
 
@@ -307,4 +307,4 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | App status and context |  The user has arrived at the parking spot, but encountered an issue during their reservation. They would like to file a complaint or report the problem |
 | Changes in the context |  The user is now in need of asistance |
 | System reaction        |  The complaint will be submitted and eventually it will be reviewed by someone |
-[Back to top](sprint-1)
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
