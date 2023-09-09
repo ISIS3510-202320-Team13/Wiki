@@ -166,7 +166,8 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 6. I'm Paula, an occasional Monserrate visitor, and sometimes my foreign friends come to the city and we need a very long stay at a parking lot but rates are too high,  I would like the system that show me a parking spot that have special prices for long time even if it isn't a public parking lot. This way I won't pay a lot and park secure.
 7. I'm Maria, an environmentally conscious individual who drives an electric car. I'm interested in a parking app that not only provides information on available parking spots but also highlights locations with electric vehicle charging stations. This way, I can conveniently charge my car while I'm parked, ensuring a sustainable and eco-friendly commute.
 8. I'm Maria , as an electric car owner, I'm eager to receive promotions and discounts specifically tailored to electric vehicle users from parking facilities. I'm looking for a parking app that not only helps me find parking spots with charging stations but also sends me notifications about special deals, offers, and promotions for electric vehicle users, helping me save money while contributing to a cleaner environment.
-
+9. I'm David, and I own a property near a highly popular tourist location. I have a free parking spot that I'd like to rent out to others to generate additional income. I'm interested in having an app that can automatically schedule the rental periods for the parking spot, making it effortless for me to earn extra income.
+10. I'm David, a private parking spot owner, and I want to know the identity of the individuals renting my spot to ensure the safety of my property. This way, I can hold accountable those responsible for any damage to my property and also identify regular customers.
 
 
 
