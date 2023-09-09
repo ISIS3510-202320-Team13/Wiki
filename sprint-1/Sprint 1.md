@@ -164,7 +164,8 @@ Type 1 (App's telemetry: questions that are related to crashes, bugs, performanc
 
 Type 2 (Direct user experience improvement: questions that focus on improving user experience in the daily usage/interaction.):
 * How many steps it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (improving user experience)
-* Is it useful for the user to see the last action they did?  (improving daily usage/interaction)
+* Would it enhance the daily user experience to provide a history of the user's recent actions, allowing them to review and track their parking reservations? (improving daily usage/interaction)
+
 * What are the nearest parking from the users' most frequented places? (improving daily usage/interaction)
 * What is the average waiting time for a parking spot to be freed? (improving experience)
 
@@ -172,7 +173,7 @@ Type 3 (Features analysis: questions that helps the business to decide about the
 * How much time is a user willing to wait for a parking spot to be freed? (new feature - approx time to wait)
 * Which spots and sections of the parking are the most/less used? (new feature - indicates that is a "preferred spot free")
 * How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time)
-
+* What are the most common reasons for users canceling their parking reservations, and can we implement features to address these issues? (update/feature improvement - reducing reservation cancellations)  
 Type 4 (Benefits from data: questions that helps the business to understand how they can make profit or take advantage from its data with third party companies.):
 * Which places are the most requested in the city? (understand where is a business necessity)
 * What is the average/maximum price a user would pay for reserving a parking spot? (understand what is the optimal range of prices and if could be dinamic)
