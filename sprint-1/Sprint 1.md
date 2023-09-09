@@ -200,3 +200,19 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | App status and context | The app is being in another language                                      |
 | Changes in the context | The user can understand the technical words                               |
 | System reaction        | The user can see the options in their native language                     |
+7.  User Wants to Identify Electrical Charging Spots 
+
+| **Scenario Name**      | User Wants to Identify Electrical Charging Spots     |
+|------------------------|--------------------------------------------------------|
+| Quality attributes     | Sustainability, user experience                        |
+| App status and context | The user drives an electric vehicle and needs to find a parking spot with an electric vehicle charging station. |
+| Changes in the context | The user is actively searching for parking and wants to identify available charging spots quickly. |
+| System reaction        | The app provides a dedicated filter or icon that highlights parking spots equipped with electric vehicle charging stations. When the user applies this filter, the app displays only those spots, making it easy for the user to identify and select a charging spot for their electric vehicle. |
+
+| **Scenario Name**      | User Wants to Share Their Parking Location with a Friend |
+|------------------------|-----------------------------------------------------------|
+| Quality attributes     | Convenience, user experience                             |
+| App status and context | The user has parked their car and wants to share the exact parking location with a friend or family member. |
+| Changes in the context | The user needs a quick and simple way to send the parking spot details, including a map location. |
+| System reaction        | The app provides a "Share Parking Location" feature that generates a shareable link or message containing the parking spot's GPS coordinates and directions. This allows the user to easily share the information with others via text message or social media, ensuring a smooth and convenient experience. |
+
