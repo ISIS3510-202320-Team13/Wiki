@@ -131,11 +131,17 @@ Problems-Alternative-Solutions.
 
 ![ContextCanvas drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/b5723e45-6a20-41e3-b750-e6fd8f4084fc)
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
+
 ## 4. Personas
 
-Person Who Doesn't Use The App Persona
-![PersonWhoDoesntUseTheApp](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/EmpathyMap_PersonWhoDoesNotUseApp.jpg.png)
+Person who doesn't use the app
+![PersonWhoDoesntUseTheAppPersona](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/DoesntUseTheAppPersona.drawio.png)
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
+
+## 5. Empathy maps
+
+Person Who Doesn't Use The App
+![PersonWhoDoesntUseTheApp](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/EmpathyMap_PersonWhoDoesNotUseApp.jpg.png)
 
 ## 6. Business questions
 
