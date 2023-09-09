@@ -153,6 +153,8 @@ Type 4 (Benefits from data: questions that helps the business to understand how 
 Type 5 (Questions that are meant to answer more than one topic from the other four types.):
 * What users use the parking service for more than 6 hours on a day? (type 2, 4)
 * how much revenue is lost from the app crashes leaving incomplete transactions? (type 1, 4)
+## 7. VD MAP
+![ParkEz VDMap drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/63ce86d6-a59b-4351-a5f6-a89dd728bbc9)
 
 ## 8. Functional Scenarios
 
