@@ -3,14 +3,14 @@
 **Table of Contents Sprint 1**
 1. [Proposed solution, revenue model and value proposal](#1-proposed-solution-revenue-model-and-value-proposal)
 2. [PAS structure](#2-problems-alternative-solutions)
-3. [Context Canvas](#3-empathy-maps)
+3. [Context Canvas](#3-context-canvas)
 4. [Personas](#4-personas)
-5. [Empathy Maps](#5-description-of-the-solution)
-6. [Business Questions ](#5-description-of-the-solution)
-7. [VD Map](#5-description-of-the-solution)
-8. [Functional scenarios](#5-description-of-the-solution)
-9. [Quality scenarios](#5-description-of-the-solution)
-10. [Ethics component](#5-description-of-the-solution)
+5. [Empathy Maps](#5-empathy-maps)
+6. [Business Questions ](#6-business-questions)
+7. [VD Map](#7-vd-map)
+8. [Functional scenarios](#6-functional-scenarios)
+9. [Quality scenarios](#9-quality-scenarios)
+10. [Ethics component](#10-ethics-component)
 11. [Back to Home](../README.md)
 
 ## 1. Proposed solution, revenue model and value proposal.
