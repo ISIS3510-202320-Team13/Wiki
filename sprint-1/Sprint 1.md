@@ -240,6 +240,7 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | App status and context | The app is being in another language                                      |
 | Changes in the context | The user can understand the technical words                               |
 | System reaction        | The user can see the options in their native language                     |
+
 7.  User Wants to Identify Electrical Charging Spots 
 
 | **Scenario Name**      | User Wants to Identify Electrical Charging Spots     |
@@ -249,12 +250,16 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | Changes in the context | The user is actively searching for parking and wants to identify available charging spots quickly. |
 | System reaction        | The app provides a dedicated filter or icon that highlights parking spots equipped with electric vehicle charging stations. When the user applies this filter, the app displays only those spots, making it easy for the user to identify and select a charging spot for their electric vehicle. |
 
+8. User Wants to Share Their Parking Location with a Friend
+
 | **Scenario Name**      | User Wants to Share Their Parking Location with a Friend |
 |------------------------|-----------------------------------------------------------|
 | Quality attributes     | Convenience, user experience                             |
 | App status and context | The user has parked their car and wants to share the exact parking location with a friend or family member. |
 | Changes in the context | The user needs a quick and simple way to send the parking spot details, including a map location. |
 | System reaction        | The app provides a "Share Parking Location" feature that generates a shareable link or message containing the parking spot's GPS coordinates and directions. This allows the user to easily share the information with others via text message or social media, ensuring a smooth and convenient experience. |
+
+9. The user is sensitive to white ligh
 
 | **Scenario Name**      | The user is sensitive to white light |
 |------------------------|-----------------------------------------------------------|
@@ -263,9 +268,29 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | Changes in the context | The app is now being used in a place with low light where the clear mode can be uncomfortable to the eyes. |
 | System reaction        | The user changes the app to dark mode in the app settings. |
 
+10. User wants to know how to get to the parking lot
+
 | **Scenario Name**      | User wants to know how to get to the parking lot |
 |------------------------|-----------------------------------------------------------|
 | Quality attributes     | Usability                             |
 | App status and context | The user has a parking spot booked and doesn’t know how to get there |
 | Changes in the context | The user is moving through the city streets |
 | System reaction        | The app updates the suggested route and shows the user the steps needed to arrive to the parking lot |
+
+11. The user wants to cancel a reservation
+
+| **Scenario Name**      |  The user wants to cancel a reservation |
+|------------------------|-----------------------------------------------------------------|
+| Quality attributes     |  User experience |
+| App status and context |  The user no longer need the reservation so he need to cancel it and avoid getting charged |
+| Changes in the context |  The user will no longer arrive at the parking spot|
+| System reaction        |  The database will update informing the parking spot and the user of the succesful cancelation of the service|
+
+12. The user has an issue or complaint with the parking spot
+
+| **Scenario Name**      |  The user has an issue or complaint with the parking spot |
+|------------------------|---------------------------------------------------------------|
+| Quality attributes     |  User Experience |
+| App status and context |  The user has arrived at the parking spot, but encountered an issue during their reservation. They would like to file a complaint or report the problem |
+| Changes in the context |  The user is now in need of asistance |
+| System reaction        |  The complaint will be submitted and eventually it will be reviewed by someone |
