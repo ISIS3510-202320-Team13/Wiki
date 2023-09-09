@@ -142,11 +142,11 @@ Problems-Alternative-Solutions.
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 5. Empathy maps
-
+concurrent user:
 ![Empathy map Concurrent user](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathyMapRecurringUser.png)
 
 Owners of private parking spaces :
-![Empathy map InvidualOwner](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
+![Untitled_2023-09-09_05-02-39](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/d21b7cea-c1d4-4b77-bf37-b4af14a8ca78)
 
 Parking lots employees :
 ![Employee Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/39b0a5a6-1cf5-4813-a93c-004d415e2687)
@@ -326,3 +326,4 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | Changes in the context |  The user is now in need of asistance |
 | System reaction        |  The complaint will be submitted and eventually it will be reviewed by someone |
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
+10. Ethics component
