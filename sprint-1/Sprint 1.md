@@ -253,3 +253,16 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | Changes in the context | The user needs a quick and simple way to send the parking spot details, including a map location. |
 | System reaction        | The app provides a "Share Parking Location" feature that generates a shareable link or message containing the parking spot's GPS coordinates and directions. This allows the user to easily share the information with others via text message or social media, ensuring a smooth and convenient experience. |
 
+| **Scenario Name**      | The user is sensitive to white light |
+|------------------------|-----------------------------------------------------------|
+| Quality attributes     | Availability, Usability                             |
+| App status and context | The app is being used in clear mode. |
+| Changes in the context | The app is now being used in a place with low light where the clear mode can be uncomfortable to the eyes. |
+| System reaction        | The user changes the app to dark mode in the app settings. |
+
+| **Scenario Name**      | User wants to know how to get to the parking lot |
+|------------------------|-----------------------------------------------------------|
+| Quality attributes     | Usability                             |
+| App status and context | The user has a parking spot booked and doesn’t know how to get there |
+| Changes in the context | The user is moving through the city streets |
+| System reaction        | The app updates the suggested route and shows the user the steps needed to arrive to the parking lot |
