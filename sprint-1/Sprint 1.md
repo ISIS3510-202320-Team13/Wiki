@@ -185,7 +185,8 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 7. VD MAP
-![ParkEz VDMap drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/63ce86d6-a59b-4351-a5f6-a89dd728bbc9)
+![vdMap2 0 drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/ba63db33-443a-4e2d-b40d-1588e3832d26)
+
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 8. Functional Scenarios
