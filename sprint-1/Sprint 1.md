@@ -133,8 +133,11 @@ Problems-Alternative-Solutions.
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
 ## 4. Personas
-
-Person who doesn't use the app
+#### Concurrent User
+![User Concurrente](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/persona_concurrent_user.png)
+### Situational User
+![Untitled Diagram drawio](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/009b2298-7673-4593-96e1-fdd7c767b9e0)
+### Person who doesn't use the app
 ![PersonWhoDoesntUseTheAppPersona](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/DoesntUseTheAppPersona.drawio.png)
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
 
