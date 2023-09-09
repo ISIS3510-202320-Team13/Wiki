@@ -143,8 +143,17 @@ Problems-Alternative-Solutions.
 
 ## 5. Empathy maps
 
+![Empathy map Concurrent user](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathyMapRecurringUser.png)
+
+Owners of private parking spaces :
+![Empathy map InvidualOwner](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/empathy_map_jd.lugo.png)
+
+Parking lots employees :
+![Employee Empathy Map](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/39b0a5a6-1cf5-4813-a93c-004d415e2687)
+
 Person Who Doesn't Use The App
 ![PersonWhoDoesntUseTheApp](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS3/EmpathyMap_PersonWhoDoesNotUseApp.jpg.png)
+
 
 ## 6. Business questions
 
