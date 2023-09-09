@@ -329,3 +329,6 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 | System reaction        |  The complaint will be submitted and eventually it will be reviewed by someone |
 [Back to top](/sprint-1/Sprint%201.md#sprint-1)
 ## 10. Ethics component
+
+Link: https://youtu.be/aNnD9QHXxSc
+[Back to top](/sprint-1/Sprint%201.md#sprint-1)
