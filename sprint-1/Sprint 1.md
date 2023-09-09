@@ -127,6 +127,12 @@ Type 5 (Questions that are meant to answer more than one topic from the other fo
 4. I'm Guillermo and I'm the owner of the Tequendama parking lot. I want to know which are the most used parking spaces in my parking lot in order to upgrade my other parking spaces. To achieve this, I login using my owner profile and click on the parking lot stats, here I can filter the data between the dates I want, and click on the option to see the most used parking spaces.
 5. I'm Paula, an occasional Monserrate visitor, and every time i try to go to monserrate's parking lot is full no matter how early arrive so I want to have a reserved spot for me when I get there. To achive this I'd like to have an app that let me ensure that it will be an available spot. This way, no matter where in the parking lot, I have an space.
 6. I'm Paula, an occasional Monserrate visitor, and sometimes my foreign friends come to the city and we need a very long stay at a parking lot but rates are too high,  I would like the system that show me a parking spot that have special prices for long time even if it isn't a public parking lot. This way I won't pay a lot and park secure.
+7. I'm Maria, an environmentally conscious individual who drives an electric car. I'm interested in a parking app that not only provides information on available parking spots but also highlights locations with electric vehicle charging stations. This way, I can conveniently charge my car while I'm parked, ensuring a sustainable and eco-friendly commute.
+8. I'm Maria , as an electric car owner, I'm eager to receive promotions and discounts specifically tailored to electric vehicle users from parking facilities. I'm looking for a parking app that not only helps her find parking spots with charging stations but also sends her notifications about special deals, offers, and promotions for electric vehicle users, helping her save money while contributing to a cleaner environment.
+
+
+
+
 
 ## 9. Quality Scenarios
 
