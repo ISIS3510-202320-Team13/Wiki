@@ -24,6 +24,40 @@ Proposed Solution: ParkEz
 
 ParkEz is a Parking Space Sharing and Reservation Platform that revolutionizes urban parking by seamlessly connecting large parking facilities and individual parking space owners with users. Through our user-friendly app, ParkEz offers a dynamic marketplace that transforms parking into a hassle-free experience for everyone involved.
 
+Revenue model:
+
+We planned to offer a multidimensional revenue model in order to get the user easily engaged with the app, the main points are:
+
+1. Service Fee per Reservation:
+Charge users a nominal service fee, such as 1000 COP, for each parking space reservation they make through your platform. This fee applies every time a user successfully books a parking spot. Ensure that the fee is prominently displayed during the reservation process.
+
+2. Premium Features:
+Offer premium features or subscription tiers for users who want additional benefits, such as faster booking confirmation, priority access to highly sought-after spots, or enhanced customer support. Users can pay a monthly or yearly fee for these premium services.
+
+3. Loyalty Program:
+Implement a loyalty program that rewards frequent users with discounts or cashback for every successful booking they make. This encourages repeat usage and user retention.
+
+4. Group Reservations Fee:
+Charge a slightly lower fee for users who make group reservations for events, meetings, or outings. This fee can be based on the number of parking spaces booked within a single reservation.
+
+5. Cancellation Fees:
+Implement a small cancellation fee for users who cancel their reservations within a certain time frame, discouraging last-minute cancellations and ensuring fairness to parking space owners.
+
+6. Advertising and Partnerships:
+Collaborate with local businesses or event organizers and offer premium advertising space on your platform. Charge businesses for promoting their services or events to your user base.
+
+7. Data Analytics Insights:
+Offer data analytics and insights services to parking space owners, helping them optimize their pricing strategies and improve their parking spaces' appeal. Charge owners for these additional data-driven services.
+
+8. Featured Listings:
+Allow parking space owners to pay a fee to have their listings featured prominently on your platform's search results. This increases the visibility of their parking spaces and can lead to more bookings.
+
+9. Subscription Plans for Parking Space Owners:
+Offer subscription plans for parking space owners who want to list multiple parking spaces or require additional tools and services for managing their listings efficiently.
+
+10. Transaction Fees for Owners:
+Charge parking space owners a small percentage fee for each successful reservation made through your platform. This encourages owners to actively use your service.
+
 ### Features:
 
 * Streamlined Connectivity: ParkEz serves as a bridge between large parking facilities and individual owners, creating a unified platform for users to find parking spaces effortlessly. 
