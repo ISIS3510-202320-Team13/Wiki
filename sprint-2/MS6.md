@@ -60,3 +60,15 @@ ParkEz employs a bottom navigation bar as a prominent and user-friendly way to n
 
 **2. Continuous Scrolling:**
 Continuous scrolling is a navigational pattern that will be used in the "Parkings Offer" section of the app. In this pattern, users can browse through a list of parking spots or offers by simply scrolling down the screen. As users scroll, new parking options load dynamically, allowing them to explore a wide range of choices without having to switch pages or use pagination controls. Continuous scrolling provides a seamless and immersive experience, making it easy for users to find the perfect parking spot.
+
+
+**3. Backtracking arrow:**
+When entering certain sections of the app, such as searching for parking spots or seeing the parking lot details, the option to backtrack to the previous section will be available in the top left corner of the screen. This is implemented with the objective of giving the user the possibility to navigate the app without worrying that they wont be able to return to a previous step.
+
+
+**4. Parking lot dynamic map:**
+When searching for parking lots, the users can view a map that shows the location of all the closest parking lots. When clicking on a parking lot, the user can see its details and current status.
+
+
+**5. Current Parking state:**
+Both clients and parking lot owners can access the real-time information of a parking lot by selecting its details. This way a user can plan ahead their reservations or simply be able to see which parking spaces are available at a certain time.
