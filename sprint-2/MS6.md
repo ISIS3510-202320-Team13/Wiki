@@ -34,7 +34,7 @@ The following are the different icons and the logo we have of the app:
 
 #### Logo ParkEz
 
-![LogoParkEz](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/LogoParkEz.png)
+![LogoParkEz](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/LogoParkEzUltimoModelo.png)
 
 ## UI prototype
 
