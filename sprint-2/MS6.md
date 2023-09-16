@@ -18,6 +18,24 @@ ParkEZ is the ultimate solution for anyone tired of the parking headache. It off
 
 ## Choosen icons
 
+The following are the different icons and the logo we have of the app:
+
+#### Bar Icons:
+
+![barIcons](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/BarIcons.png)
+
+#### Car Icon
+
+![CarIcon](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/CarIcon.png)
+
+#### Edit Icon
+
+![EditIcon](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/EditIcon.png)
+
+#### Logo ParkEz
+
+![LogoParkEz](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/LogoParkEz.png)
+
 ## UI prototype
 
 ## Navigational patterns
