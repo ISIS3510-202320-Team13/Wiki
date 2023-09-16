@@ -39,3 +39,10 @@ The following are the different icons and the logo we have of the app:
 ## UI prototype
 
 ## Navigational patterns
+### Navigational Patterns of ParkEz:
+**1. Bottom Navigation Bar:**
+ParkEz employs a bottom navigation bar as a prominent and user-friendly way to navigate through the primary sections of the app. This navigation bar typically consists of a set of icons or labels at the bottom of the screen, each representing a key feature or section of the app. Users can easily switch between these sections by tapping the respective icons, ensuring quick access to essential functionalities. Common icons found on the bottom navigation bar include "Home," "My Reservations," "Favorites," "Profile," "Chats “, and " Settings."
+
+
+**3. Continuous Scrolling:**
+Continuous scrolling is a navigational pattern that will be used in the "Parkings Offer" section of the app. In this pattern, users can browse through a list of parking spots or offers by simply scrolling down the screen. As users scroll, new parking options load dynamically, allowing them to explore a wide range of choices without having to switch pages or use pagination controls. Continuous scrolling provides a seamless and immersive experience, making it easy for users to find the perfect parking spot.
