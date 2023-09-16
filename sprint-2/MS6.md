@@ -37,6 +37,20 @@ The following are the different icons and the logo we have of the app:
 ![LogoParkEz](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/LogoParkEzUltimoModelo.png)
 
 ## UI prototype
+![UI1](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%201.png)
+![UI2](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%202.png)
+![UI3](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%203.png)
+![UI4](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%204.png)
+![UI5](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%205.png)
+![UI6](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%206.png)
+![UI7](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%207.png)
+![UI8](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%208.png)
+![UI9](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%209.png)
+![UI10](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%2010.png)
+![UI11](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%2011.png)
+![UI12](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%2012.png)
+![UI13](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%2013.png)
+![UI14](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%2014.png)
 
 ## Navigational patterns
 ### Navigational Patterns of ParkEz:
