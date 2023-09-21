@@ -53,6 +53,12 @@ The following are the different icons and the logo we have of the app:
 ![UI14](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/iPhone%2014%20Pro%20%E2%80%93%2014.png)
 
 ## Navigational patterns
+
+### Navigational Maps
+
+![ParkEzNavigationMap](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/173ca1da-8f4d-4a84-bd82-bca9df4b7560)
+
+
 ### Navigational Patterns of ParkEz:
 **1. Bottom Navigation Bar:**
 ParkEz employs a bottom navigation bar as a prominent and user-friendly way to navigate through the primary sections of the app. This navigation bar typically consists of a set of icons or labels at the bottom of the screen, each representing a key feature or section of the app. Users can easily switch between these sections by tapping the respective icons, ensuring quick access to essential functionalities. Common icons found on the bottom navigation bar include "Home," "My Reservations," "Favorites," "Profile," "Chats “, and " Settings."
