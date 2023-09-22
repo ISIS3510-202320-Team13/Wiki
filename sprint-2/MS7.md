@@ -9,3 +9,7 @@
 
 ### 3. Parking Lot Detail page
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/34c9006b-5e67-4aba-beae-18578abdde3d)
+
+### 4. Booking details
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
+
