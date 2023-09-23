@@ -16,6 +16,6 @@ Team 13
   * [Sprint 1 Deliverables](./sprint-1/Sprint%201.md)
 
 
-*Sprint 2
+* Sprint 2
  *  * [MS7](./sprint-2/MS7.md)
 
