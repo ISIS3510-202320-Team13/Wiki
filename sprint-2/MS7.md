@@ -39,8 +39,6 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/0f25a0bc-cf5b-4f3e-ad39-9f22935b8e19)
 
 
-https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa4-abcd-4c0579b4efd2
-
 
 
 ### 2.1.3 Parking Lot Detail page
@@ -48,6 +46,10 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa
 
 ### 2.1.4. Booking details
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa4-abcd-4c0579b4efd2
+
+
 
 ### Flutter views: These views were displayed in the repositroy called Flutter located in this Organization
 ### 2.2.1 Home page
