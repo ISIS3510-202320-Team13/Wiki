@@ -5,7 +5,7 @@ deliverable, and you score all the points, then you deliver the same value
 proposition
 
 *Answer:*
-# Smart Features:
+Smart Features:
 
 * Efficiency and Convenience: ParkEZ's ability to make parking spot reservations in advance is a smart feature that enhances efficiency. Users can plan their trips with confidence, knowing they have a reserved parking spot waiting for them. This convenience can save users time and reduce the stress associated with finding parking.
 
@@ -13,7 +13,7 @@ proposition
 
 * Data Analysis and Insights: ParkEZ can gather data on parking spot availability and usage, offering valuable insights. This data can help optimize parking management, improve user experiences, and potentially lead to partnerships with businesses or municipalities seeking parking solutions.
 
-# CAS (Complex Adaptive Systems) Features:
+CAS (Complex Adaptive Systems) Features:
 
 * Adaptability: ParkEZ's continuous scrolling feature in the "Parkings Offer" section is a CAS feature that adapts to users' browsing behaviors. It dynamically loads new options as users scroll, offering a flexible and adaptive interface that responds to user actions.
 
