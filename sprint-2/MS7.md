@@ -32,18 +32,28 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 ## 2.Views
 
 ### Kotlin views: These views were displayed in the repositroy called Android_Kotlin located in this Organization
-### 2.1 Main page
+### 2.1.1 Main page
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/73e11f44-3e8c-426a-82c4-99fc5b9a8a75)
 
-### 2.2 Sign up page
+### 2.1.2 Sign up page
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/0f25a0bc-cf5b-4f3e-ad39-9f22935b8e19)
 
 
 
-### 2.3 Parking Lot Detail page
+### 2.1.3 Parking Lot Detail page
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/34c9006b-5e67-4aba-beae-18578abdde3d)
 
-### 2.4. Booking details
+### 2.1.4. Booking details
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
 
 ### Flutter views: These views were displayed in the repositroy called Flutter located in this Organization
+### 2.2.1 Home page
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS7/home_page_flutter.jpg' width='300'>
+
+### 2.2.1 Near Parkings page
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS7/near_parkings_flutter.jpg' width='300'>
+
+
+### 2.2.* Short funcioning video
+https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS7/flutter_short.mp4
+
