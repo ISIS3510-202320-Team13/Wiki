@@ -30,7 +30,8 @@ In the context of ParkEZ, both smart features and CAS (Complex Adaptive Systems)
 On the other hand, CAS features within ParkEZ, like the continuous scrolling option, backtracking capabilities, and real-time parking lot information, contribute to the adaptability, resilience, and efficiency of the system. The continuous scrolling feature, for instance, offers a seamless and immersive experience for users browsing parking options. The backtracking arrow ensures that users can navigate through the app confidently, enhancing their overall experience. Furthermore, the real-time parking lot information benefits both clients and parking lot owners, optimizing resource allocation and enhancing efficiency.
 
 ## 2.Views
-### Kotlin views
+
+### Kotlin views: These views were displayed in the repositroy called Android_Kotlin located in this Organization
 ### 2.1 Main page
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/73e11f44-3e8c-426a-82c4-99fc5b9a8a75)
 
@@ -45,4 +46,4 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 ### 2.4. Booking details
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
 
-### Flutter views
+### Flutter views: These views were displayed in the repositroy called Flutter located in this Organization
