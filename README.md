@@ -17,5 +17,5 @@ Team 13
 
 
 * Sprint 2
- *  * [MS7](./sprint-2/MS7.md)
+  * [MS7](./sprint-2/MS7.md)
 
