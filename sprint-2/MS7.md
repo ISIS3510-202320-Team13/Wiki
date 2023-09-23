@@ -31,7 +31,7 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 
 ## 2.Views
 
-### Kotlin views: This views were displayed in the repositroy called Android_Kotlin located in this Organization
+### Kotlin views: These views were displayed in the repositroy called Android_Kotlin located in this Organization
 ### 2.1 Main page
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/73e11f44-3e8c-426a-82c4-99fc5b9a8a75)
 
@@ -46,4 +46,4 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 ### 2.4. Booking details
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
 
-### Flutter views: This views were displayed in the repositroy called Flutter located in this Organization
+### Flutter views: These views were displayed in the repositroy called Flutter located in this Organization
