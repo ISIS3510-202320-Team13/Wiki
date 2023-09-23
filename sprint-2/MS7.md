@@ -55,5 +55,9 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 
 
 ### 2.2.* Short funcioning video
-https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS7/flutter_short.mp4
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/1b5e8fd1-4cfc-4890-b993-077050f14c00
+
+
 
