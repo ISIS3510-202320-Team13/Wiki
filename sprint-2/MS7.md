@@ -1,8 +1,9 @@
 # MS7
-# 1. How the smart features help me to generate value?, How the CAS 
+1. How the smart features help me to generate value?, How the CAS 
 features help me to generate value?. If you already answered this in a previous
 deliverable, and you score all the points, then you deliver the same value 
 proposition
+*Answer:*
 
 
 # 2.Views
