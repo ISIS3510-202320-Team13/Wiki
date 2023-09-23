@@ -12,7 +12,8 @@ proposition
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/73e11f44-3e8c-426a-82c4-99fc5b9a8a75)
 
 ### 2.2 Sign up page
-![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/894d13bc-66bc-4cab-aa39-d1b4d311e5ef)
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/0f25a0bc-cf5b-4f3e-ad39-9f22935b8e19)
+
 
 
 ### 2.3 Parking Lot Detail page
