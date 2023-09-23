@@ -5,6 +5,7 @@ deliverable, and you score all the points, then you deliver the same value
 proposition
 
 *Answer:*
+
 Smart Features:
 
 * Efficiency and Convenience: ParkEZ's ability to make parking spot reservations in advance is a smart feature that enhances efficiency. Users can plan their trips with confidence, knowing they have a reserved parking spot waiting for them. This convenience can save users time and reduce the stress associated with finding parking.
