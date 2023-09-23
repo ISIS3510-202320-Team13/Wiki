@@ -20,3 +20,4 @@ proposition
 ### 2.4. Booking details
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
 
+### Flutter views
