@@ -53,11 +53,22 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 ### 2.2.1 Near Parkings page
 <img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS7/near_parkings_flutter.jpg' width='300'>
 
+### 2.3.1 Payment view
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/b6e79a2c-c01b-441b-b7bc-540b07c3bb81' width='300'>
+
+### 2.3.2 Checkout View
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/5e6b135d-0ad3-44bb-9dff-229991c006ce' width='300'>
+
 
 ### 2.2.* Short funcioning video
 
 
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/1b5e8fd1-4cfc-4890-b993-077050f14c00
+
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/90ad3ede-2d85-4c93-86ef-175f5915f22f
+
 
 
 
