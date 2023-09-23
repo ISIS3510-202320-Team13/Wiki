@@ -43,7 +43,6 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa
 
 
 
- [Sprint 1 Deliverables](./assets/2-23-09-23 02-52-05.mkv)
 ### 2.1.3 Parking Lot Detail page
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/34c9006b-5e67-4aba-beae-18578abdde3d)
 
