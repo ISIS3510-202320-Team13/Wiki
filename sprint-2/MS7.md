@@ -71,6 +71,38 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/90ad3ede-2d85-4c9
 
 
 
+# UI/UX Design 
+## Colour palette
+
+![WhatsApp Image 2023-09-20 at 12 29 32](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/08578859-da14-4fc1-a6d7-c2f1f4ced2d9)
+
+
+
+## Fonts
+
+* Roboto font family for Android
+
+## Choosen icons
+
+The following are the different icons and the logo we have of the app:
+
+#### Bar Icons:
+
+![barIcons](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/BarIcons.png)
+
+#### Car Icon
+
+![CarIcon](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/CarIcon.png)
+
+#### Edit Icon
+
+![EditIcon](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/EditIcon.png)
+
+#### Logo ParkEz
+
+![LogoParkEz](https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS6/LogoParkEzUltimoModelo.png)
+
+
 ### Navigational Maps
 
 ![ParkEzNavigationMap](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/173ca1da-8f4d-4a84-bd82-bca9df4b7560)
