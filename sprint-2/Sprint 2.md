@@ -1,6 +1,6 @@
 # Sprint 2
 
-**Table of Contents Sprint 1**
+**Table of Contents Sprint 2**
 1. [List of business questions](#1-list-of-business-questions)
 2. [Implemented functionalities](#2-implemented-functionalities)
 3. [Analytics stack or pipeline](#3-analytics-stack-or-pipeline)
