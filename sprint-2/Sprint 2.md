@@ -28,17 +28,17 @@ The BQs (Business Questions) that were implemented are:
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 2.  Implemented functionalities.
-a. Real-Time Location with GPS: This functionality utilizes the phone's GPS sensor to provide real-time location tracking. It allows users to see their current location on a map within the app, making it easier to find nearby parking spots or navigate to their destination.
+1. **Real-Time Location with GPS**: This functionality utilizes the phone's GPS sensor to provide real-time location tracking. It allows users to see their current location on a map within the app, making it easier to find nearby parking spots or navigate to their destination.
 
-b. Answering Type 2 Questions: As mentioned earlier, this functionality addresses Type 2 questions related to parking reservations, history, and recommendations. It provides answers to questions such as reservation duration, reservation history, and recommends nearby parking spots based on user preferences.
+2. **Answering Type 2 Questions**: As mentioned earlier, this functionality addresses Type 2 questions related to parking reservations, history, and recommendations. It provides answers to questions such as reservation duration, reservation history, and recommends nearby parking spots based on user preferences.
 
-c. Context-Aware Dark Mode: This functionality adapts the app's appearance based on the time of day or ambient light conditions. For example, it switches to a dark mode at night or when the device's brightness is lowered, providing a more comfortable viewing experience in low-light situations.
+3. **Context-Aware Dark Mode**: This functionality adapts the app's appearance based on the time of day or ambient light conditions. For example, it switches to a dark mode at night or when the device's brightness is lowered, providing a more comfortable viewing experience in low-light situations.
 
-d. Smart Feature - Personalized Recommendations: This feature employs smart algorithms to analyze user behavior and preferences. It can recommend parking spots based on historical usage patterns, suggesting the most frequently used parking locations or notifying the user when a preferred spot becomes available.
+4. **Smart Feature - Personalized Recommendations**: This feature employs smart algorithms to analyze user behavior and preferences. It can recommend parking spots based on historical usage patterns, suggesting the most frequently used parking locations or notifying the user when a preferred spot becomes available.
 
-e. User Authentication: User authentication is essential for security and personalization. Users can create accounts, log in, and access personalized features such as saving favorite parking locations and viewing reservation history. This authentication is connected to the backend for data security.
+5. **User Authentication**: User authentication is essential for security and personalization. Users can create accounts, log in, and access personalized features such as saving favorite parking locations and viewing reservation history. This authentication is connected to the backend for data security.
 
-f. External Service Integration - Firebase User Registration: This functionality integrates with an external service, specifically Firebase, for user registration. When users create accounts or log in, their authentication and registration data are securely managed on Firebase servers, ensuring data consistency and security across devices and platforms.
+6. **External Service Integration - Firebase User Registration**: This functionality integrates with an external service, specifically Firebase, for user registration. When users create accounts or log in, their authentication and registration data are securely managed on Firebase servers, ensuring data consistency and security across devices and platforms.
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 3.  Analytics stack or pipeline.
