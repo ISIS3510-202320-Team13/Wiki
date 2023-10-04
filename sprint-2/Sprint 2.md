@@ -77,6 +77,9 @@ The implemented ModelviewModel pattern have  the view module that implements the
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 8. Views
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/Sprint%202/Home.jpg' width='300'>
+
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/Sprint%202/NearParkings.jpg' width='300'>
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
