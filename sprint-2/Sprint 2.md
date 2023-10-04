@@ -11,7 +11,7 @@
 8. [Views](#8-views)
 9. [Videdo Ethics](#9-Videdo-Ethics)
 10. [Back to Home](../README.md)
-11. 
+
 
 ## 1. List of business questions.
 The BQs (Business Questions) that were implemented are:
