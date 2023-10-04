@@ -47,7 +47,6 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 ### 2.1.4. Booking details
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
 
-https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa4-abcd-4c0579b4efd2
 
 ### 2.1.5 map view
 
@@ -60,6 +59,9 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/fc696ebd-584f-48de-8f59-f109292cc993)
 
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/178aac97-06f0-436a-b9e4-a7032c9656ea)
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa4-abcd-4c0579b4efd2
 
 
 ### Flutter views: These views were displayed in the repositroy called Flutter located in this Organization
