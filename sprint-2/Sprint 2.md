@@ -136,6 +136,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/1b5e8fd1-4cfc-489
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/90ad3ede-2d85-4c93-86ef-175f5915f22f
 
 ## 7. Video Ethics
+Link: https://youtu.be/MXngN4kfEY4
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
