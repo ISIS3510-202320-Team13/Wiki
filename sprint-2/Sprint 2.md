@@ -18,7 +18,8 @@ Type 2.1 - Calculate the time it takes from when the app is opened (how long a r
 Type 2.2 - Maintain a history of actions (confirmed reservations, canceled reservations, recurrent reservations).<br />
 Type 2.3 - Determine the nearest parking locations to the users' most frequented places (improving daily usage/interaction). We may be able to access this information through the Google Maps API, recommending frequent parking spots in case they are full.<br />
 Type 2.4 - Calculate the average waiting time for a parking spot to become available (improving the user experience). This can be calculated from reservation times.<br />
-Type 2.5 - What is the best parking lot in the area? (improving daily usage/interaction - Show labels over the top recomended parking).<br />
+Type 2.5 - What are the nearest parking from the users' most frequented places? (improving daily usage/interaction)<br />
+Type 2.6 - What is the average waiting time for a parking spot to be freed? (improving experience)<br />
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
