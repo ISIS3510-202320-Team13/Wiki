@@ -9,7 +9,7 @@
 6. [Implementation of AD](#6-implementation-of-architectural-design)
 7. [Implementation of BQs](#7-implementation-of-business-questions)
 8. [Views](#8-views)
-9. [Videdo Ethics](#9-Videdo-Ethics)
+9. [Video Ethics](#9-Videdo-Ethics)
 10. [Back to Home](../README.md)
 
 
@@ -149,7 +149,7 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/1b5e8fd1-4cfc-489
 
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/90ad3ede-2d85-4c93-86ef-175f5915f22f
 
-## 9. Videdo Ethics
+## 9. Video Ethics
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
