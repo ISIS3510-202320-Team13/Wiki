@@ -38,6 +38,15 @@ f. External Service Integration - Firebase User Registration: This functionality
 
 ## 3.  Analytics stack or pipeline.
 
+For the Analytics Pipeline, we chose Firebase, as it is the most used backend platform for Mobile Applications.
+
+Currently, we're usign Firebase Authentication to save all the users in our App and get all the information from them.
+We will also use Cloud firestore to save all the users' reservations and actions with the users.
+
+Specifically for the analytics service, Google Analytics for Firebase will help us process all the events in the App and the user events and show them in Firebase Dashboard to get insigut of all the information we're processing.
+
+![AnalyticsPipeline](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/f0b2e526-3b5c-43ef-9315-886373b22e64)
+
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 4. Architectural design.
