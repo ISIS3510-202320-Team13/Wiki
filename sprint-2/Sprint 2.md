@@ -66,7 +66,11 @@ The implemented ModelviewModel pattern have  the view module that implements the
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 5. Rationale of architectural design.
-We are using the Model–View–ViewModel (MVVM) architecture to achieve a separation of concerns, improve code maintainability, and enhance the user interface experience. Additionally, Firebase enables automatic load balancing and efficient data management, contributing to the scalability and reliability of our system. In the second diagram, we have defined the views that the app will use to provide services and depict user interactions.
+We are using the Model–View–ViewModel (MVVM) architecture to achieve a separation of concerns, improve code maintainability, and enhance the user interface experience. Additionally, Firebase enables automatic load balancing and efficient data management, contributing to the scalability and reliability of our system. In the second diagram, we have defined the views that the app will use to provide services and depict user interactions. Hence, we are using Google Analytics for Firebase to answer critical business questions and enhance our system. Finally, we leverage cloud storage and a NoSQL database to streamline data storage, taking advantage of the flexibility and scalability that NoSQL databases offer. We also utilize HTTPS for secure payment processing.
+
+
+
+
 
 
 
