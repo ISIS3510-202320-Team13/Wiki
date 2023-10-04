@@ -15,15 +15,15 @@
 The BQs (Business Questions) that were implemented are:
 
 #### Type 2
-1. At what time is a parking occupied the most/least?
-2. How much time does it take for an user to reserve a parking spot?
-3. What are the user's most recent actions, so we can save time the next time they want to make a reservation?
-4. What are the nearest parking locations to the user's most frequented places?
-5. What is the average waiting time for a parking spot to be freed?
+1. At what time is a parking occupied the most/least?  (improve user experience)
+2. How much time does it take for an user to reserve a parking spot? (improving user experience)
+3. What are the user's most recent actions, so we can save time the next time they want to make a reservation?  (improving daily usage/interaction)
+4. What are the nearest parking locations to the user's most frequented places? (improving daily usage/interaction)
+5. What is the average waiting time for a parking spot to be freed? (improving experience)
 
 #### Type 4
-1. What parking spots are the most requested in the city?
-2. What is the average/maximum price a user would pay for reserving a parking spot?
+1. What parking spots are the most requested in the city? (understand where is a business necessity)
+2. What is the average/maximum price a user would pay for reserving a parking spot? (understand what is the optimal range of prices and if could be dinamic)
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
