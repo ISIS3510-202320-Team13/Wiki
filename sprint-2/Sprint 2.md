@@ -14,12 +14,16 @@
 ## 1. List of business questions.
 The BQs (Business Questions) that were implemented are:
 
-Type 2.1 - Calculate the time it takes from when the app is opened (how long a reservation takes).<br />
-Type 2.2 - Maintain a history of actions (confirmed reservations, canceled reservations, recurrent reservations).<br />
-Type 2.3 - Determine the nearest parking locations to the users' most frequented places (improving daily usage/interaction). We may be able to access this information through the Google Maps API, recommending frequent parking spots in case they are full.<br />
-Type 2.4 - Calculate the average waiting time for a parking spot to become available (improving the user experience). This can be calculated from reservation times.<br />
-Type 2.5 - What are the nearest parking from the users' most frequented places? (improving daily usage/interaction)<br />Type 2.5 - What are the nearest parking from the users' most frequented places? (improving daily usage/interaction)<br />
-Type 2.6 - What is the average waiting time for a parking spot to be freed? (improving experience)<br />
+#### Type 2
+1. At what time is a parking occupied the most/least?
+2. How much time does it take for an user to reserve a parking spot?
+3. What are the user's most recent actions, so we can save time the next time they want to make a reservation?
+4. What are the nearest parking locations to the user's most frequented places?
+5. What is the average waiting time for a parking spot to be freed?
+
+#### Type 4
+1. What parking spots are the most requested in the city?
+2. What is the average/maximum price a user would pay for reserving a parking spot?
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
