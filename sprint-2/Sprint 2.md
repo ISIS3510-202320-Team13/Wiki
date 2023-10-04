@@ -76,10 +76,66 @@ The implemented ModelviewModel pattern have  the view module that implements the
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
-## 8. Views
-<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/Sprint%202/Home.jpg' width='300'>
 
-<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/Sprint%202/NearParkings.jpg' width='300'>
+## 8.Views
+
+### Kotlin views: These views were displayed in the repositroy called Android_Kotlin located in this Organization
+### 8.1.1 Main page
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/73e11f44-3e8c-426a-82c4-99fc5b9a8a75)
+
+### 8.1.2 Sign up page
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/0f25a0bc-cf5b-4f3e-ad39-9f22935b8e19)
+
+
+
+
+### 8.1.3 Parking Lot Detail page
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/34c9006b-5e67-4aba-beae-18578abdde3d)
+
+### 8.1.4. Booking details
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/ff6fd48f-af04-4914-b83c-fb21220144ac)
+
+
+### 8.1.5 map view
+
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/b99f0db2-b45d-450f-8215-5dbddaacda14)
+
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/7c141c96-b103-454a-80ac-e61219a40b99)
+
+### 8.1.6 login view 
+
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/fc696ebd-584f-48de-8f59-f109292cc993)
+
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/178aac97-06f0-436a-b9e4-a7032c9656ea)
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa4-abcd-4c0579b4efd2
+
+
+### Flutter views: These views were displayed in the repositroy called Flutter located in this Organization
+### 8.2.1 Home page
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS7/home_page_flutter.jpg' width='300'>
+
+### 8.2.1 Near Parkings page
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/MS7/near_parkings_flutter.jpg' width='300'>
+
+### 8.3.1 Payment view
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/b6e79a2c-c01b-441b-b7bc-540b07c3bb81' width='300'>
+
+### 8.3.2 Checkout View
+<img src='https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/5e6b135d-0ad3-44bb-9dff-229991c006ce' width='300'>
+
+
+### 8.2.* Short funcioning video
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/1b5e8fd1-4cfc-4890-b993-077050f14c00
+
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/90ad3ede-2d85-4c93-86ef-175f5915f22f
+
+
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
