@@ -58,6 +58,7 @@ Specifically for the analytics service, Google Analytics for Firebase will help 
 
 ![Moviles](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/78d1e05a-2ca5-4fea-9197-daba88e96aea)
 
+
 The implemented ModelviewModel pattern have  the view module that implements the next views and routes:
 
 ![269474086-173ca1da-8f4d-4a84-bd82-bca9df4b7560](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/fe681928-761f-4ef6-a40a-05b930b5e5db)
@@ -65,6 +66,10 @@ The implemented ModelviewModel pattern have  the view module that implements the
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 5. Rationale of architectural design.
+We are using the Model–View–ViewModel (MVVM) architecture to achieve a separation of concerns, improve code maintainability, and enhance the user interface experience. Additionally, Firebase enables automatic load balancing and efficient data management, contributing to the scalability and reliability of our system. In the second diagram, we have defined the views that the app will use to provide services and depict user interactions.
+
+
+
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
