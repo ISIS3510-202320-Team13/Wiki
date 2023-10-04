@@ -78,10 +78,13 @@ We are using the Model–View–ViewModel (MVVM) architecture to achieve a separ
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 6. Implementation of architectural design.
+**evaluated in the viva vocce**
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
 ## 7. Implementation of business questions.
+
+**evaluated in the viva vocce**
 
 [Back to top](/sprint-2/Sprint%202.md#sprint-2)
 
