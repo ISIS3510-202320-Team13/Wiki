@@ -49,11 +49,13 @@ On the other hand, CAS features within ParkEZ, like the continuous scrolling opt
 
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/1c2e7323-9c88-4aa4-abcd-4c0579b4efd2
 
-2.1.5 map view
+### 2.1.5 map view
+
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/b99f0db2-b45d-450f-8215-5dbddaacda14)
+
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/7c141c96-b103-454a-80ac-e61219a40b99)
 
-2.1.6 login view 
+### 2.1.6 login view 
 
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/fc696ebd-584f-48de-8f59-f109292cc993)
 
