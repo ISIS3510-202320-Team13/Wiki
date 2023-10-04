@@ -18,4 +18,5 @@ Team 13
 
 * Sprint 2
   * [MS7](./sprint-2/MS7.md)
+  * [Sprint 2 Deliverables](./sprint-2/Sprint%202.md)
 
