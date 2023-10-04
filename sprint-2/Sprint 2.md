@@ -9,7 +9,7 @@
 6. [Implementation of AD](#6-implementation-of-architectural-design)
 7. [Implementation of BQs](#7-implementation-of-business-questions)
 8. [Views](#8-views)
-9. [Video-ethics](#9-Videdo Ethics)
+9. [Videdo Ethics](#9-Videdo-Ethics)
 10. [Back to Home](../README.md)
 11. 
 
