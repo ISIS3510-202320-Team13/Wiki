@@ -1,7 +1,6 @@
 # Sprint 3
 
-**Table of Contents Sprint 2**
-1. # Sprint 2
+**Table of Contents Sprint 3**
 
 1. [Description of the eventual connectivity scenarios](#1-description-of-the-eventual-connectivity-scenarios)
 2. [ List all the functionalities and design details that you implemented](#2-list-of-all-the-functionalities-and-design-details)
