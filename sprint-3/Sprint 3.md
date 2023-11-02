@@ -22,14 +22,14 @@ scenarios and show how the app behaves on them (This is evaluated in the Wiki)
 ## 2. List all the functionalities and design details that you implemented:
 a. List all the features that you will deliver in this sprint (including those that 
 you already had in Sprint 2):
-    * Login functionality
-    * Sign Up Functionality
-    * Show the different parkings stored on the database
-    * Make a reservation
-    * Display the most used parkings
+* Login functionality
+* Sign Up Functionality
+* Show the different parkings stored on the database
+* Make a reservation
+* Display the most used parkings
 
 b. Specify what are your BQs for this sprint.
-    * Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this? (performance) (Sebastian Caceres)
+* Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this? (performance) (Sebastian Caceres)
 
 c. Specify what is your eventual connectivity strategy(ies).
 d. Specify what is your local storage strategy(ies).
