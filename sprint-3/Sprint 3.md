@@ -1,5 +1,14 @@
+# Sprint 3
 
-1. Description of the eventual connectivity scenarios:
+**Table of Contents Sprint 2**
+1. # Sprint 2
+
+1. [Description of the eventual connectivity scenarios](#1-description-of-the-eventual-connectivity-scenarios)
+2. [ List all the functionalities and design details that you implemented](#2-list-of-all-the-functionalities-and-design-details)
+
+
+
+## 1. Description of the eventual connectivity scenarios:
 The main strategy that we will implement in the app will be Network falling back to cache and Cache then network with the next scenarios:
 a. Usage of Cache for Last Reservation Data: When a user makes a reservation, the app should save the reservation data in the cache. If the connection is lost during this process, the app will continue to function by displaying the last saved reservation data. This ensures that users can still access their reservation details even when there is no network connectivity.
 
@@ -11,7 +20,7 @@ Moreover, you should describe your eventual connectivity
 scenarios and show how the app behaves on them (This is evaluated in the Wiki)
 
 
-2. List all the functionalities and design details that you implemented:
+##2. List all the functionalities and design details that you implemented:
 a. List all the features that you will deliver in this sprint (including those that 
 you already had in Sprint 2):
     * Login functionality
