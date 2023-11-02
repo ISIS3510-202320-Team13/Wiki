@@ -9,6 +9,7 @@
 
 ## 1. Description of the eventual connectivity scenarios:
 The main strategy that we will implement in the app will be Network falling back to cache and Cache then network with the next scenarios:
+
 a. Usage of Cache for Last Reservation Data: When a user makes a reservation, the app should save the reservation data in the cache. If the connection is lost during this process, the app will continue to function by displaying the last saved reservation data. This ensures that users can still access their reservation details even when there is no network connectivity.
 
 b. Usage of Cache for User Email During Login: During the login process, the user's email is crucial for authentication. If there is an issue while filling in the login details (e.g., network disruption), the app should save the partially entered email in the cache. This way, the user can resume the login process without starting from scratch once the connection is re-established.
