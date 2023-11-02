@@ -19,7 +19,7 @@ Moreover, you should describe your eventual connectivity
 scenarios and show how the app behaves on them (This is evaluated in the Wiki)
 
 
-##2. List all the functionalities and design details that you implemented:
+## 2. List all the functionalities and design details that you implemented:
 a. List all the features that you will deliver in this sprint (including those that 
 you already had in Sprint 2):
     * Login functionality
