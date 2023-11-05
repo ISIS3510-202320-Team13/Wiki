@@ -32,7 +32,7 @@ you already had in Sprint 2):
 b. Specify what are your BQs for this sprint.
 * Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this? (performance) (Sebastian Caceres)
 * How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time) (Nicolas Falla)
-
+* How much time it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (Juan Camilo)
 c. Specify what is your eventual connectivity strategy(ies).
 d. Specify what is your local storage strategy(ies).
 e. Specify what is your multi-threading strategy(ies).
