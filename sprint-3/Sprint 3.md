@@ -34,6 +34,7 @@ b. Specify what are your BQs for this sprint.
 * How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time) (Nicolas Falla)
 * How much time it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (Juan Camilo)
 * What are is most reserved parking spots by a user in each day of the week? (Cristóbal Arroyo)
+* Does the user have a currently active or upcoming reservation? (Juan Diego Lugo)
 
 c. Specify what is your eventual connectivity strategy(ies).
 d. Specify what is your local storage strategy(ies).
