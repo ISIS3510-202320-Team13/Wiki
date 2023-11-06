@@ -16,9 +16,6 @@ b. Usage of Cache for User Email During Login: During the login process, the use
 
 c. Display Cached Parking Data When Connection is Lost: When the app is fetching parking information from the database, it should save this data in the cache. If the connection is lost, the app will continue to display the parkings stored in the cache. This ensures that users can still browse and access parking information even when they have no network connectivity.
 
-Moreover, you should describe your eventual connectivity 
-scenarios and show how the app behaves on them (This is evaluated in the Wiki)
-
 
 ## 2. List all the functionalities and design details that you implemented:
 a. List all the features that you will deliver in this sprint (including those that 
@@ -37,10 +34,14 @@ b. Specify what are your BQs for this sprint.
 * Does the user have a currently active or upcoming reservation? (Juan Diego Lugo)
 
 c. Specify what is your eventual connectivity strategy(ies).
+* When the app is disconnected, the App will continue to display some of the parkigns stored in the cache.
+* When the user is making a reservation and the App disconnects, the App will only show the connection error when the user confirms the reservation. This ensures that the user would still be able to make a reservation if he disconnects and connects in the same reservation process
+
 d. Specify what is your local storage strategy(ies).
+* Store the latest reservation in local files to retrieve information about upcoming reservations in case of no internet connection. 
+
 e. Specify what is your multi-threading strategy(ies).
 * Usage of threads and async for the fetching of information in the database.
-* Store the latest reservation in local files to retrieve information about upcoming reservations in case of no internet connection. 
-     
 
 f. Specify what is your caching strategy(ies).
+* We will cache the near parking spots so they load faster if the App loses connection or if it is closed and opened again.
