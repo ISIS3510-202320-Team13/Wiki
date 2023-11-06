@@ -39,7 +39,8 @@ b. Specify what are your BQs for this sprint.
 c. Specify what is your eventual connectivity strategy(ies).
 d. Specify what is your local storage strategy(ies).
 e. Specify what is your multi-threading strategy(ies).
-* Usage of threads and async for the fetching of information in the database. 
+* Usage of threads and async for the fetching of information in the database.
+* Store the latest reservation in local files to retrieve information about upcoming reservations in case of no internet connection. 
      
 
 f. Specify what is your caching strategy(ies).
