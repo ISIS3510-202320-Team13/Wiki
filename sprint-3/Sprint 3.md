@@ -47,6 +47,8 @@ you already had in Sprint 2):
 * Show the different parkings stored on the database
 * Make a reservation
 * Display the most used parkings
+* Confirmation email
+* display to the user if there is an ongoing reservation
 
 b. Specify what are your BQs for this sprint.
 * Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this? (performance) (Sebastian Caceres)
