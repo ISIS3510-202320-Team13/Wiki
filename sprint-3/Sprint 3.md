@@ -12,6 +12,7 @@ The main strategy that we will implement in the app will be Network falling back
 
 a. Usage of Cache for Last Reservation Data: When a user makes a reservation, the app should save the reservation data in the cache. If the connection is lost during this process, the app will continue to function by displaying the last saved reservation data. This ensures that users can still access their reservation details even when there is no network connectivity.
 eo 2023-11-
+
 b. Usage of Cache for User Email During Login: During the login process, the user's email is crucial for authentication. If there is an issue while filling in the login details (e.g., network disruption), the app should save the partially entered email in the cache. This way, the user can resume the login process without starting from scratch once the connection is re-established.
 
 c. Display Cached Parking Data When Connection is Lost: When the app is fetching parking information from the database, it should save this data in the cache. If the connection is lost, the app will continue to display the parkings stored in the cache. This ensures that users can still browse and access parking information even when they have no network connectivity.
