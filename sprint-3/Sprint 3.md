@@ -18,9 +18,19 @@ c. Display Cached Parking Data When Connection is Lost: When the app is fetching
 
 
 ## Kotlin:
-https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/WhatsApp%20Video%202023-11-06%20at%206.42.57%20PM.mp4
-https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/WhatsApp%20Video%202023-11-06%20at%206.18.00%20PM.mp4
-https://github.com/ISIS3510-202320-Team13/Wiki/blob/main/assets/WhatsApp%20Video%202023-11-06%20at%206.42.58%20PM.mp4
+
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/c9cac6b8-0d2c-488c-955b-29e3926d7070
+
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/ea2c493a-5091-4825-8407-07e6fcebba5f
+
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/a4bca28c-1737-4c4b-a6b4-d4e7222cf092
+
 
 ## 2. List all the functionalities and design details that you implemented:
 a. List all the features that you will deliver in this sprint (including those that 
