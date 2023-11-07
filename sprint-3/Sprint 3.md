@@ -47,6 +47,7 @@ b. Specify what are your BQs for this sprint.
 * How much time it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (Juan Camilo)
 * What are is most reserved parking spots by a user in each day of the week? (Cristóbal Arroyo)
 * Does the user have a currently active or upcoming reservation? (Juan Diego Lugo)
+* What are the user last reserved parking spots? (Sergio Peñuela)
 
 c. Specify what is your eventual connectivity strategy(ies).
 * When the app is disconnected, the App will continue to display some of the parkigns stored in the cache.
