@@ -76,3 +76,9 @@ f. Specify what is your caching strategy(ies).
 
 ## 3. Ethics Component:
 https://youtu.be/tLCR0ly8J0c
+
+## 4. Back API and Endpoint
+
+(https://github.com/ISIS3510-202320-Team13/back)[https://github.com/ISIS3510-202320-Team13/back]
+(http://api.parkez.xyz:8082/docs)[http://api.parkez.xyz:8082/docs]
+
