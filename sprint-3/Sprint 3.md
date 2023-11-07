@@ -32,6 +32,12 @@ https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/ea2c493a-5091-482
 
 https://github.com/ISIS3510-202320-Team13/Wiki/assets/89409633/a4bca28c-1737-4c4b-a6b4-d4e7222cf092
 
+## Flutter:
+
+
+https://github.com/ISIS3510-202320-Team13/Wiki/assets/60227071/df4edfa8-fbdd-468d-8684-05b9b2fa6eb1
+
+
 
 ## 2. List all the functionalities and design details that you implemented:
 a. List all the features that you will deliver in this sprint (including those that 
