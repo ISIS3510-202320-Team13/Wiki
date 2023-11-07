@@ -61,3 +61,6 @@ e. Specify what is your multi-threading strategy(ies).
 
 f. Specify what is your caching strategy(ies).
 * We will cache the near parking spots so they load faster if the App loses connection or if it is closed and opened again.
+
+## 3. Ethics Component:
+https://youtu.be/tLCR0ly8J0c
