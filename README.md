@@ -22,3 +22,5 @@ Team 13
 
 * Sprint 3
   * [Sprint 3 Deliverable](./sprint-3/Sprint%203.md)
+* Sprint 4
+  * [Sprint 4 Deliverable](./sprint-4/Sprint%204.md)
