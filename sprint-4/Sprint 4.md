@@ -19,9 +19,8 @@ ParkEz, a pioneering mobile application, is reshaping the urban parking landscap
 
 ParkEz extends its value beyond mere convenience for its users. It serves as a vital tool for parking space owners, enhancing their visibility and customer reach, thereby opening new avenues for revenue generation. This innovative platform not only simplifies the process of finding and booking parking spaces but also contributes to a more sustainable urban environment. By reducing the time and resources spent in search of parking, ParkEz aids in decreasing fuel consumption and emissions, aligning with the broader goals of urban sustainability and efficiency.
 ## 2. Micro-Optimization Strategies
-## 3. Micro-Optimization Strategies
 
-### Kotlin App Profiling and Optimization
+### 3.1  Kotlin App Profiling and Optimization
 
 #### Before Optimization
 - **Screenshot and Analysis**: 
@@ -32,7 +31,7 @@ ParkEz extends its value beyond mere convenience for its users. It serves as a v
 #### After Optimization
 - **Screenshot and Analysis**:
 
-### Flutter App Profiling and Optimization
+### 3.2 Flutter App Profiling and Optimization
 
 #### Before Optimization
 - **Screenshot and Analysis**: 
