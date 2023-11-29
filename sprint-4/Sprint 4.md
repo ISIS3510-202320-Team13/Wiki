@@ -72,20 +72,20 @@ ParkEz extends its value beyond mere convenience for its users. It serves as a v
 
 #### Sprint 2 BQs
 - At what time is a parking occupied the most/least? (improve user experience)
-How much time does it take for an user to reserve a parking spot? (improving user experience)
+- How much time does it take for an user to reserve a parking spot? (improving user experience)
 - What are the user's most recent actions, so we can save time the next time they want to make a reservation? (improving daily usage/interaction)
-= What are the nearest parking locations to the user's most frequented places? (improving daily usage/interaction)
-= What is the average waiting time for a parking spot to be freed? (improving experience)
+- What are the nearest parking locations to the user's most frequented places? (improving daily usage/interaction)
+- What is the average waiting time for a parking spot to be freed? (improving experience)
 
 - What parking spots are the most requested in the city? (understand where is a business necessity)
 - What is the average/maximum price a user would pay for reserving a parking spot? (understand what is the optimal range of prices and if could be dinamic)
 
 #### Sprint 3 BQs
 - At what time is a parking occupied the most/least?  (improve user experience)
--  How much time does it take for an user to reserve a parking spot? (improving user experience)
--   What are the user's most recent actions, so we can save time the next time they want to make a reservation?  (improving daily usage/interaction)
--  at are the nearest parking locations to the user's most frequented places? (improving daily usage/interaction)
--  What is the average waiting time for a parking spot to be freed? (improving experience)
+- How much time does it take for an user to reserve a parking spot? (improving user experience)
+- What are the user's most recent actions, so we can save time the next time they want to make a reservation?  (improving daily usage/interaction)
+- What are the nearest parking locations to the user's most frequented places? (improving daily usage/interaction)
+- What is the average waiting time for a parking spot to be freed? (improving experience)
 
 
 #### Sprint 4 BQs
@@ -94,27 +94,21 @@ How much time does it take for an user to reserve a parking spot? (improving use
 -
 -
 -
--
+
 ### c. Eventual Connectivity Strategies 
-#### (Sprint 3)
 - **App Continuation During Disconnection**: The app continues to display some of the parking spots stored in the cache when disconnected.
 - **Reservation Continuity**: The app allows users to continue making a reservation during intermittent connectivity, showing an error only upon confirmation if disconnected.
-#### (Sprint 4)
 
 ### d. Local Storage Strategies 
-#### (Sprint 3)
-
 - **Reservation Data Storage**: Stores the latest reservation data in local files for offline access to upcoming reservations.
-#### (Sprint 4)
 
 ### e. Multi-threading Strategies
 - **Efficient Data Fetching**: Uses threads and async operations for efficient data fetching from the database.
 - **App Telemetry**: Use threads and async operations for calculating performance metrics inside the application
 
-### f. Caching Strategies (Sprint 3)
+### f. Caching Strategies
 - **Parking Spot Caching**: Caches nearby parking spots to load them faster during reconnection or app restarts.
 - **GPS Data Caching**: Minimizes repeated GPS usage by caching and sharing location data between views.
-#### (Sprint 4)
 
 
 
