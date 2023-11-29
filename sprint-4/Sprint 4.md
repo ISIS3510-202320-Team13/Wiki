@@ -108,9 +108,8 @@ How much time does it take for an user to reserve a parking spot? (improving use
 #### (Sprint 4)
 
 ### e. Multi-threading Strategies
-#### (Sprint 3)
 - **Efficient Data Fetching**: Uses threads and async operations for efficient data fetching from the database.
-#### (Sprint 4)
+- **App Telemetry**: Use threads and async operations for calculating performance metrics inside the application
 
 ### f. Caching Strategies (Sprint 3)
 - **Parking Spot Caching**: Caches nearby parking spots to load them faster during reconnection or app restarts.
