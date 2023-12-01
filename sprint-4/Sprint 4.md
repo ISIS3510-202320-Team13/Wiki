@@ -34,13 +34,64 @@ ParkEz extends its value beyond mere convenience for its users. It serves as a v
 ### 3.2 Flutter App Profiling and Optimization
 
 #### Before Optimization
-- **Screenshot and Analysis**: 
+
+One of the main features of the App is track user's location and find near parkings.
+
+Currently, the App is updating the internal `Position` variable whenever the GPS has a location change.
+
+With dart DevToools, it's clear that this feature is the most CPU consuming:
+
+![before-optimization](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/39655dc8-2397-4af4-a64a-c7d3460b9a3e)
 
 #### Optimization Implementation
-- **Code Snippets/Descriptions**: 
+We use `Geolocator` library to track user's position. 
+
+`LocationBloc` class uses a `StreamSubscription` to get position changes.
+
+```dart
+class LocationBloc extends Bloc<LocationEvent, LocationState> {
+  late final StreamSubscription _locationSubscription;
+
+  LocationBloc() {
+    _locationSubscription = Geolocator.getPositionStream().listen(
+      (position) => add(LocationUpdated(position)),
+    );
+  }
+
+  ...
+}
+```
+
+The problem with this approach is that `getPositionStream()` method, defaults the streaming rate to notify all GPS movements.
+
+Reading [geolocator API reference](https://pub.dev/documentation/geolocator/latest/#listen-to-location-updates):
+> `distanceFilter`: the minimum distance (measured in meters) a device must move horizontally before an update event is generated;
+ 
+Then, the obvious solution is that we should change the distanceFilter so that the updates are only done when the user moves a great distance:
+
+```dart
+class LocationBloc extends Bloc<LocationEvent, LocationState> {
+  late final StreamSubscription _locationSubscription;
+
+  LocationBloc() {
+    _locationSubscription = Geolocator.getPositionStream(
+            locationSettings: const LocationSettings(distanceFilter: 20)) // ADDED DISTANCE FILTER OPTION
+        .listen(
+      (position) => add(LocationUpdated(position)),
+    );
+  }
+
+  ...
+}
+```
+
 
 #### After Optimization
-- **Screenshot and Analysis**:
+
+After applying the optimization, the Location feature isn't the one that consumes the most CPU, and if we filter out the rest of the tasks, we can see that it improved the runtime inside the App from 41.56ms to 18.06, almost 3 times faster!
+
+![after-optimization](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69475004/6113aaa1-7aa8-45b1-9bcc-aff3aa372a68)
+
 
 ### Summary of Optimizations
 
