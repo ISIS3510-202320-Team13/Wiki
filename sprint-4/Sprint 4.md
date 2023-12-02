@@ -23,13 +23,58 @@ ParkEz extends its value beyond mere convenience for its users. It serves as a v
 ### 3.1  Kotlin App Profiling and Optimization
 
 #### Before Optimization
-- **Screenshot and Analysis**: 
+One of the BQs for the past sprint included checking the users location every so often to see if their location matches that of the parking lot that they are making a reservation for.
+
+To solve this, a coroutine whose job was to check the users location was implemented as soon as a user makes a reservation.
+
+When looking at the profiling tool, we can see that this coroutine is peaking the CPU usage when it wakes up.
+
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/29ac8bd0-d1ea-447f-87b7-85b00d0f1ccf)
+
 
 #### Optimization Implementation
-- **Code Snippets/Descriptions**: 
+We identified that the coroutine was checking for location permissions each time that it checks the user location.
+
+This is unnessary because the permissions should only be checked once when the view is created, and if they are granted, they shouldn't be checked again.
+
+```kotlin
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+
+        super.onViewCreated(view, savedInstanceState)
+        checkLocationPermissions()
+        ...
+}
+```
+This check was removed from the coroutines function, so now the thread only needs to calculate the distance to the parking lot every so often.
+
+```kotlin
+    private fun getCurrentUserCoordinates() {
+        viewModel.parkingDetailLiveData.observe(viewLifecycleOwner) { parkingDetail ->
+            parkingDetail?.let {
+                val parkingAddress = parkingDetail.coordinates
+                    getCurrentLocation { location ->
+                        location?.let {
+                            val userCoord = LatLng(location.latitude, location.longitude)
+                            if (parkingAddress != null) {
+                                if (abs(userCoord.latitude) == abs(parkingAddress.latitude) && abs(
+                                        userCoord.longitude
+                                    ) == abs(parkingAddress.longitude)
+                                ) {
+                                    matchCoord++
+                                }
+                            }
+                        }
+                    }
+            }
+        }
+    }
+```
 
 #### After Optimization
-- **Screenshot and Analysis**:
+This way, the CPU usage is reduced by 5% than what it was before
+
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/a47a0af6-9e7d-4b3c-84fb-c20ab3359218)
+
 
 ### 3.2 Flutter App Profiling and Optimization
 
