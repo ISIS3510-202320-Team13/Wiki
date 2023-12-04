@@ -162,7 +162,6 @@ After applying the optimization, the Location feature isn't the one that consume
 - **Show Reservation History**: Allows users to view their past parking reservations.
 - **Retrieve and Show User Information**: Displays user's personal information on a dedicated view when logged in.
 - **Allow User Log Out**: Provides the functionality for users to securely log out of the app.
-- **Payments with Stripe**: Integrates Stripe for secure and convenient payment processing.
 
 ### b. Business Questions (BQs)
 
@@ -185,7 +184,7 @@ After applying the optimization, the Location feature isn't the one that consume
 
 
 #### Sprint 4 BQs
--
+- The app is fetching the reservations of the user and displaying in less of three seconds? (Improve user experience)
 -
 -
 -
@@ -194,17 +193,20 @@ After applying the optimization, the Location feature isn't the one that consume
 ### c. Eventual Connectivity Strategies 
 - **App Continuation During Disconnection**: The app continues to display some of the parking spots stored in the cache when disconnected.
 - **Reservation Continuity**: The app allows users to continue making a reservation during intermittent connectivity, showing an error only upon confirmation if disconnected.
+- 
 
 ### d. Local Storage Strategies 
 - **Reservation Data Storage**: Stores the latest reservation data in local files for offline access to upcoming reservations.
+- **Saving User Basic information in local storage** : Stores the user image, email and name of the user locally to retrieve it when the app is offline.
 
 ### e. Multi-threading Strategies
-- **Efficient Data Fetching**: Uses threads and async operations for efficient data fetching from the database.
+- **Efficient Data Fetching**: Uses threads and async operations for efficient data fetching from the database, it is ysed when the reservations of the used are fetched.
 - **App Telemetry**: Use threads and async operations for calculating performance metrics inside the application
 
 ### f. Caching Strategies
 - **Parking Spot Caching**: Caches nearby parking spots to load them faster during reconnection or app restarts.
 - **GPS Data Caching**: Minimizes repeated GPS usage by caching and sharing location data between views.
+- **Save Reservations History** : Caching the last 3 reservations when the app is offline, this allows the user to know the latest reservations even when the app has no internet access.
 
 
 
