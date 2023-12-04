@@ -151,17 +151,20 @@ After applying the optimization, the Location feature isn't the one that consume
 - **Smart Feature - Personalized Recommendations**: Offers parking recommendations based on user behavior.
 - **User Authentication**: For secure access and personalized features.
 - **External Service Integration - Firebase User Registration**: Manages user data and authentication securely.
+-**GPS**: A map is displayed on the user location and showing the parkings stored on the database.
 
 #### Sprint 3 Features
 - **Show Different Parkings Stored on the Database**: Displays various parking options available in the database.
 - **Make a Reservation**: Enables users to reserve parking spots through the app.
-- **Display the Most Used Parkings**: Highlights parking spots that are frequently used.
 - **Confirmation Email**: Sends confirmation emails to users upon successful reservation.
-
+- **Show Parking Details**
+- **Allows payments with stripe api**
+- **Generate recipe and show details to the user**
 #### Sprint 4 Features
 - **Show Reservation History**: Allows users to view their past parking reservations.
-- **Retrieve and Show User Information**: Displays user's personal information on a dedicated view when logged in.
+- **Retrieve and Show User Information**: Displays user's personal information on a dedicated view.
 - **Allow User Log Out**: Provides the functionality for users to securely log out of the app.
+  
 
 ### b. Business Questions (BQs)
 
