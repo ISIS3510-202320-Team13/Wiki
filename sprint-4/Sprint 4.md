@@ -190,7 +190,7 @@ After applying the optimization, the Location feature isn't the one that consume
 - The app is fetching the reservations of the user and displaying in less of three seconds? (Improve user experience)
 - Which is the last reservation made by an user? (Improve user experience)
 - How much time does it take for a user to fill in the payment method (new feature - be able to save credit card information)
--
+- Can the user see the reservation without having the app? (Improve user experience)
 -
 
 ### c. Eventual Connectivity Strategies 
