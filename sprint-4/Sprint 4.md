@@ -226,4 +226,9 @@ After applying the optimization, the Location feature isn't the one that consume
 
 
 
+**Ethics:** 
+https://youtu.be/G5zVMSiB18o
+
+
+
 [Back to Home](../README.md)
