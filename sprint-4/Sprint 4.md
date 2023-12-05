@@ -207,6 +207,7 @@ What are the user last reserved parking spots? (Sergio Peñuela)
 ### e. Multi-threading Strategies
 - **Efficient Data Fetching**: Uses threads and async operations for efficient data fetching from the database, it is ysed when the reservations of the used are fetched.
 - **App Telemetry**: Use threads and async operations for calculating performance metrics inside the application
+- **New API calls**: Usage of Future Async functions to do some tasks
 
 ### f. Caching Strategies
 - **Parking Spot Caching**: Caches nearby parking spots to load them faster during reconnection or app restarts.
