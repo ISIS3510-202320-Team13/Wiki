@@ -164,6 +164,8 @@ After applying the optimization, the Location feature isn't the one that consume
 - **Show Reservation History**: Allows users to view their past parking reservations.
 - **Retrieve and Show User Information**: Displays user's personal information on a dedicated view.
 - **Allow User Log Out**: Provides the functionality for users to securely log out of the app.
+- **Allow the user to cancell reservation**: Gives the user the option to cancell an ongoing reservation.
+- **Send user confirmation Email**: The user gets a email confirmation with its reservation
   
 
 ### b. Business Questions (BQs)
@@ -191,12 +193,11 @@ What are the user last reserved parking spots? (Sergio Peñuela)
 - Which is the last reservation made by an user? (Improve user experience)
 - How much time does it take for a user to fill in the payment method (new feature - be able to save credit card information)
 - Can the user see the reservation without having the app? (Improve user experience)
--
 
 ### c. Eventual Connectivity Strategies 
 - **App Continuation During Disconnection**: The app continues to display some of the parking spots stored in the cache when disconnected.
 - **Reservation Continuity**: The app allows users to continue making a reservation during intermittent connectivity, showing an error only upon confirmation if disconnected.
-- 
+- **Cancell reservation**: The app will notify the user of the innability to cancell a reservation beacause of the lack of connectivity.
 
 ### d. Local Storage Strategies 
 - **Reservation Data Storage**: Stores the latest reservation data in local files for offline access to upcoming reservations.
