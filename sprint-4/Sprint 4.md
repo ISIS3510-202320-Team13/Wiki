@@ -188,7 +188,7 @@ After applying the optimization, the Location feature isn't the one that consume
 
 #### Sprint 4 BQs
 - The app is fetching the reservations of the user and displaying in less of three seconds? (Improve user experience)
--
+- Which is the last reservation made by an user? (Improve user experience)
 -
 -
 -
@@ -201,6 +201,7 @@ After applying the optimization, the Location feature isn't the one that consume
 ### d. Local Storage Strategies 
 - **Reservation Data Storage**: Stores the latest reservation data in local files for offline access to upcoming reservations.
 - **Saving User Basic information in local storage** : Stores the user image, email and name of the user locally to retrieve it when the app is offline.
+- **Store information for QR**: Stores the information to show the user its last reservation and for QR to activate its reservation
 
 ### e. Multi-threading Strategies
 - **Efficient Data Fetching**: Uses threads and async operations for efficient data fetching from the database, it is ysed when the reservations of the used are fetched.
