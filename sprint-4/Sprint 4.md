@@ -179,12 +179,12 @@ After applying the optimization, the Location feature isn't the one that consume
 - What is the average/maximum price a user would pay for reserving a parking spot? (understand what is the optimal range of prices and if could be dinamic)
 
 #### Sprint 3 BQs
-- At what time is a parking occupied the most/least?  (improve user experience)
-- How much time does it take for an user to reserve a parking spot? (improving user experience)
-- What are the user's most recent actions, so we can save time the next time they want to make a reservation?  (improving daily usage/interaction)
-- What are the nearest parking locations to the user's most frequented places? (improving daily usage/interaction)
-- What is the average waiting time for a parking spot to be freed? (improving experience)
-
+- Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this? (performance) (Sebastian Caceres)
+-How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time) (Nicolas Falla)
+-How much time it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (Juan Camilo)
+-What are is most reserved parking spots by a user in each day of the week? (Cristóbal Arroyo)
+-Does the user have a currently active or upcoming reservation? (Juan Diego Lugo)
+What are the user last reserved parking spots? (Sergio Peñuela)
 
 #### Sprint 4 BQs
 - The app is fetching the reservations of the user and displaying in less of three seconds? (Improve user experience)
