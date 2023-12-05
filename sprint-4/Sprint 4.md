@@ -75,6 +75,15 @@ This way, the CPU usage is reduced by 5% than what it was before
 
 ![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/57652524/a47a0af6-9e7d-4b3c-84fb-c20ab3359218)
 
+#### Before optimization
+
+The binding was initialized in the onCreateView function using lateinit which can generate unpredictable behaviour and race conditions. In order to avoid these issues the binding variable was initialized in its declaration and using the "lazy" properties. The lazy manager is thread-safe by default, ensuring that multiple threads attempting to access the property in parallel will wait for initialization to complete and share the same initialization value.
+
+#### After Optimization
+
+Binding initialization only occurs the first time the property is accessed.
+![image](https://github.com/ISIS3510-202320-Team13/Wiki/assets/69486519/a1ecff35-a536-46d7-963c-871236cac8db)
+
 
 ### 3.2 Flutter App Profiling and Optimization
 
