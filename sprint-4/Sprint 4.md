@@ -191,11 +191,11 @@ After applying the optimization, the Location feature isn't the one that consume
 
 #### Sprint 3 BQs
 - Are the parking spots loading in less than 3 seconds (on devices with Android version 8.0 or higher) or do we have to change something to achieve this? (performance) (Sebastian Caceres)
--How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time) (Nicolas Falla)
--How much time it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (Juan Camilo)
--What are is most reserved parking spots by a user in each day of the week? (Cristóbal Arroyo)
--Does the user have a currently active or upcoming reservation? (Juan Diego Lugo)
-What are the user last reserved parking spots? (Sergio Peñuela)
+- How many times per reserve is the user location matching the parking location? (update - Prehold a spot for a certain amountof time) (Nicolas Falla)
+- How much time it takes to reserve a parking spot? Is it possible to reduce unnecessary steps? (Juan Camilo)
+- What are is most reserved parking spots by a user in each day of the week? (Cristóbal Arroyo)
+- Does the user have a currently active or upcoming reservation? (Juan Diego Lugo)
+- What are the user last reserved parking spots? (Sergio Peñuela)
 
 #### Sprint 4 BQs
 - The app is fetching the reservations of the user and displaying in less of three seconds? (Improve user experience)
